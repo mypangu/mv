@@ -1,5 +1,55 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="anaconda-2025_720p" tvg-name="Anaconda (2025) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5MDnvvkOqthhE5gQebzkcOhD1p5.jpg" group-title="Movies",Anaconda (2025) (720p)
+https://panguott.panguplay.workers.dev/dub/103345
+#EXTINF:-1 tvg-id="anaconda-2025_1080p" tvg-name="Anaconda (2025) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5MDnvvkOqthhE5gQebzkcOhD1p5.jpg" group-title="Movies",Anaconda (2025) (1080p)
+https://panguott.panguplay.workers.dev/dub/103341
+
+#EXTINF:-1 tvg-id="avatar-fire-and-ash-2025_720p" tvg-name="Avatar Fire and Ash (2025) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gDVgC9jd917NdAcqBdRRDUYi4Tq.jpg" group-title="Movies",Avatar Fire and Ash (2025) (720p)
+https://panguott.panguplay.workers.dev/dub/103330
+#EXTINF:-1 tvg-id="avatar-fire-and-ash-2025_1080p" tvg-name="Avatar Fire and Ash (2025) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gDVgC9jd917NdAcqBdRRDUYi4Tq.jpg" group-title="Movies",Avatar Fire and Ash (2025) (1080p)
+https://panguott.panguplay.workers.dev/dub/103326
+
+#EXTINF:-1 tvg-id="crown-of-shadows-2025_720p" tvg-name="Crown of Shadows (2025) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oK8Po4rbIWnZ5cNmBuutOvRrhcz.jpg" group-title="Movies",Crown of Shadows (2025) (720p)
+https://panguott.panguplay.workers.dev/dub/103338
+#EXTINF:-1 tvg-id="crown-of-shadows-2025_1080p" tvg-name="Crown of Shadows (2025) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oK8Po4rbIWnZ5cNmBuutOvRrhcz.jpg" group-title="Movies",Crown of Shadows (2025) (1080p)
+https://panguott.panguplay.workers.dev/dub/103334
+
+#EXTINF:-1 tvg-id="doraemon-nobitas-new-dinosaur-2020_720p" tvg-name="Doraemon Nobitas New Dinosaur (2020) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wxCZmXRJa8hSv1Tpih8TBSR4o6b.jpg" group-title="Movies",Doraemon Nobitas New Dinosaur (2020) (720p)
+https://panguott.panguplay.workers.dev/dub/103351
+#EXTINF:-1 tvg-id="doraemon-nobitas-new-dinosaur-2020_1080p" tvg-name="Doraemon Nobitas New Dinosaur (2020) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wxCZmXRJa8hSv1Tpih8TBSR4o6b.jpg" group-title="Movies",Doraemon Nobitas New Dinosaur (2020) (1080p)
+https://panguott.panguplay.workers.dev/dub/103361
+
+#EXTINF:-1 tvg-id="escape-from-mogadishu-2021_720p" tvg-name="Escape from Mogadishu (2021) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uZj357VwnONzHfQGBHpgDyw8uy6.jpg" group-title="Movies",Escape from Mogadishu (2021) (720p)
+https://panguott.panguplay.workers.dev/dub/85020
+#EXTINF:-1 tvg-id="escape-from-mogadishu-2021_1080p" tvg-name="Escape from Mogadishu (2021) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uZj357VwnONzHfQGBHpgDyw8uy6.jpg" group-title="Movies",Escape from Mogadishu (2021) (1080p)
+https://panguott.panguplay.workers.dev/dub/103300
+
+#EXTINF:-1 tvg-id="love-lies-bleeding-2008_720p" tvg-name="Love Lies Bleeding (2008) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9LzxUu9GlIOptFM20hjsTrIxOJE.jpg" group-title="Movies",Love Lies Bleeding (2008) (720p)
+https://panguott.panguplay.workers.dev/dub/103323
+#EXTINF:-1 tvg-id="love-lies-bleeding-2008_1080p" tvg-name="Love Lies Bleeding (2008) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9LzxUu9GlIOptFM20hjsTrIxOJE.jpg" group-title="Movies",Love Lies Bleeding (2008) (1080p)
+https://panguott.panguplay.workers.dev/dub/103319
+
+#EXTINF:-1 tvg-id="oggy-and-the-cockroaches-the-movie-2013_720p" tvg-name="Oggy and the Cockroaches The Movie (2013) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dKUMAflFNp7sWGPjOSqw16J0X72.jpg" group-title="Movies",Oggy and the Cockroaches The Movie (2013) (720p)
+https://panguott.panguplay.workers.dev/dub/103369
+#EXTINF:-1 tvg-id="oggy-and-the-cockroaches-the-movie-2013_1080p" tvg-name="Oggy and the Cockroaches The Movie (2013) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dKUMAflFNp7sWGPjOSqw16J0X72.jpg" group-title="Movies",Oggy and the Cockroaches The Movie (2013) (1080p)
+https://panguott.panguplay.workers.dev/dub/103365
+
+#EXTINF:-1 tvg-id="shinchan-the-spicy-kasukabe-dancers-in-india-2025_720p" tvg-name="Shinchan The Spicy Kasukabe Dancers in India (2025) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bxLr3VzoSq0G4CSWUCnZBNS8Eeh.jpg" group-title="Movies",Shinchan The Spicy Kasukabe Dancers in India (2025) (720p)
+https://panguott.panguplay.workers.dev/dub/103359
+#EXTINF:-1 tvg-id="shinchan-the-spicy-kasukabe-dancers-in-india-2025_1080p" tvg-name="Shinchan The Spicy Kasukabe Dancers in India (2025) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bxLr3VzoSq0G4CSWUCnZBNS8Eeh.jpg" group-title="Movies",Shinchan The Spicy Kasukabe Dancers in India (2025) (1080p)
+https://panguott.panguplay.workers.dev/dub/103355
+
+#EXTINF:-1 tvg-id="the-killer-downstairs-2019_720p" tvg-name="The Killer Downstairs (2019) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oQJXi21kIRxRhB3lAqrjaO95tVT.jpg" group-title="Movies",The Killer Downstairs (2019) (720p)
+https://panguott.panguplay.workers.dev/dub/103388
+#EXTINF:-1 tvg-id="the-killer-downstairs-2019_1080p" tvg-name="The Killer Downstairs (2019) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oQJXi21kIRxRhB3lAqrjaO95tVT.jpg" group-title="Movies",The Killer Downstairs (2019) (1080p)
+https://panguott.panguplay.workers.dev/dub/103384
+
+#EXTINF:-1 tvg-id="the-storm-riders-1998_720p" tvg-name="The Storm Riders (1998) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9vLOmW27iY3oHLPknNwMGxfa0IT.jpg" group-title="Movies",The Storm Riders (1998) (720p)
+https://panguott.panguplay.workers.dev/dub/103380
+#EXTINF:-1 tvg-id="the-storm-riders-1998_1080p" tvg-name="The Storm Riders (1998) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9vLOmW27iY3oHLPknNwMGxfa0IT.jpg" group-title="Movies",The Storm Riders (1998) (1080p)
+https://panguott.panguplay.workers.dev/dub/103376
+
 #EXTINF:-1 tvg-id="goodbye-june-2025_720p" tvg-name="Goodbye June (2025) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ygsMOnttVCekvJZgvmnvaemxPHA.jpg" group-title="Movies",Goodbye June (2025) (720p)
 https://panguott.panguplay.workers.dev/dub/103257
 #EXTINF:-1 tvg-id="goodbye-june-2025_1080p" tvg-name="Goodbye June (2025) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ygsMOnttVCekvJZgvmnvaemxPHA.jpg" group-title="Movies",Goodbye June (2025) (1080p)
@@ -79,11 +129,6 @@ https://panguott.panguplay.workers.dev/dub/103146
 https://panguott.panguplay.workers.dev/dub/103054
 #EXTINF:-1 tvg-id="alarum-2025_1080p" tvg-name="Alarum (2025) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ckyYZf5cGTSOwF8LWIRqeThyh18.jpg" group-title="Movies",Alarum (2025) (1080p)
 https://panguott.panguplay.workers.dev/dub/103050
-
-#EXTINF:-1 tvg-id="avatar-fire-and-ash-2025_720p" tvg-name="Avatar Fire and Ash (2025) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gDVgC9jd917NdAcqBdRRDUYi4Tq.jpg" group-title="Movies",Avatar Fire and Ash (2025) (720p)
-https://panguott.panguplay.workers.dev/dub/103122
-#EXTINF:-1 tvg-id="avatar-fire-and-ash-2025_1080p" tvg-name="Avatar Fire and Ash (2025) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gDVgC9jd917NdAcqBdRRDUYi4Tq.jpg" group-title="Movies",Avatar Fire and Ash (2025) (1080p)
-https://panguott.panguplay.workers.dev/dub/103118
 
 #EXTINF:-1 tvg-id="final-mission-1994_720p" tvg-name="Final Mission (1994) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pCuExuH8xF1sCGeRJR3fw4WlM16.jpg" group-title="Movies",Final Mission (1994) (720p)
 https://panguott.panguplay.workers.dev/dub/103081
