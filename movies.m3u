@@ -1,5 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="thalaikanam-2025_720p" tvg-name="Thalaikanam (2025) (720p)" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2UwMzBhNDMtYjMyMC00NjI4LWJjZWItZmExODUwYjYwOTJiXkEyXkFqcGc@._V1_QL75_UY562_CR21,0,380,562_.jpg" group-title="Movies",Thalaikanam (2025) (720p)
+https://panguott.panguplay.workers.dev/play/95153
+#EXTINF:-1 tvg-id="thalaikanam-2025_1080p" tvg-name="Thalaikanam (2025) (1080p)" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2UwMzBhNDMtYjMyMC00NjI4LWJjZWItZmExODUwYjYwOTJiXkEyXkFqcGc@._V1_QL75_UY562_CR21,0,380,562_.jpg" group-title="Movies",Thalaikanam (2025) (1080p)
+https://panguott.panguplay.workers.dev/play/95150
+
 #EXTINF:-1 tvg-id="2k-heart-2025_720p" tvg-name="2K Heart (2025) (720p)" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTBiZGFmYmUtZWY0My00NGIyLTgyZTAtNDRjZjQxMmUxM2VhXkEyXkFqcGc@._V1_QL75_UX380_CR0,56,380,562_.jpg" group-title="Movies",2K Heart (2025) (720p)
 https://panguott.panguplay.workers.dev/play/95124
 #EXTINF:-1 tvg-id="2k-heart-2025_1080p" tvg-name="2K Heart (2025) (1080p)" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTBiZGFmYmUtZWY0My00NGIyLTgyZTAtNDRjZjQxMmUxM2VhXkEyXkFqcGc@._V1_QL75_UX380_CR0,56,380,562_.jpg" group-title="Movies",2K Heart (2025) (1080p)
