@@ -1,5 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="trap-house-2025_720p" tvg-name="Trap House (2025) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ctU9S47MoJDN9CB7SCaitcfyyIu.jpg" group-title="Movies",Trap House (2025) (720p)
+https://panguott.panguplay.workers.dev/dub/103463
+#EXTINF:-1 tvg-id="trap-house-2025_1080p" tvg-name="Trap House (2025) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ctU9S47MoJDN9CB7SCaitcfyyIu.jpg" group-title="Movies",Trap House (2025) (1080p)
+https://panguott.panguplay.workers.dev/dub/103459
+
 #EXTINF:-1 tvg-id="beware-of-children-2018_720p" tvg-name="Beware of Children (2018) (720p)" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGI3ZDYyNDUtMWQ3Yy00OGQ5LWJmMzUtNmIwN2U4ZjBjM2M2XkEyXkFqcGc@._V1_QL75_UX380_CR0,14,380,562_.jpg" group-title="Movies",Beware of Children (2018) (720p)
 https://panguott.panguplay.workers.dev/dub/103414
 #EXTINF:-1 tvg-id="beware-of-children-2018_1080p" tvg-name="Beware of Children (2018) (1080p)" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGI3ZDYyNDUtMWQ3Yy00OGQ5LWJmMzUtNmIwN2U4ZjBjM2M2XkEyXkFqcGc@._V1_QL75_UX380_CR0,14,380,562_.jpg" group-title="Movies",Beware of Children (2018) (1080p)
