@@ -1,5 +1,15 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="yellow-2025_720p" tvg-name="Yellow (2025) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gAIPCJAJlbAozSzW3PKi7OU2ueH.jpg" group-title="Movies",Yellow (2025) (720p)
+https://panguott.panguplay.workers.dev/play/95167
+#EXTINF:-1 tvg-id="yellow-2025_1080p" tvg-name="Yellow (2025) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gAIPCJAJlbAozSzW3PKi7OU2ueH.jpg" group-title="Movies",Yellow (2025) (1080p)
+https://panguott.panguplay.workers.dev/play/95169
+
+#EXTINF:-1 tvg-id="aranmanai-kili-1993_720p" tvg-name="Aranmanai Kili (1993) (720p)" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/qHIwqpzR9cLrhCNAEht3mqUQsmU.jpg" group-title="Movies",Aranmanai Kili (1993) (720p)
+https://panguott.panguplay.workers.dev/play/95161
+#EXTINF:-1 tvg-id="aranmanai-kili-1993_1080p" tvg-name="Aranmanai Kili (1993) (1080p)" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/qHIwqpzR9cLrhCNAEht3mqUQsmU.jpg" group-title="Movies",Aranmanai Kili (1993) (1080p)
+https://panguott.panguplay.workers.dev/play/95163
+
 #EXTINF:-1 tvg-id="thalaikanam-2025_720p" tvg-name="Thalaikanam (2025) (720p)" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2UwMzBhNDMtYjMyMC00NjI4LWJjZWItZmExODUwYjYwOTJiXkEyXkFqcGc@._V1_QL75_UY562_CR21,0,380,562_.jpg" group-title="Movies",Thalaikanam (2025) (720p)
 https://panguott.panguplay.workers.dev/play/95153
 #EXTINF:-1 tvg-id="thalaikanam-2025_1080p" tvg-name="Thalaikanam (2025) (1080p)" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2UwMzBhNDMtYjMyMC00NjI4LWJjZWItZmExODUwYjYwOTJiXkEyXkFqcGc@._V1_QL75_UY562_CR21,0,380,562_.jpg" group-title="Movies",Thalaikanam (2025) (1080p)
