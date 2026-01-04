@@ -1,5 +1,25 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="eye-for-an-eye-2-2024_720p" tvg-name="Eye for an Eye 2 (2024) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mkfznkTshGBp88SFQQAGsr3R62z.jpg" group-title="Movies",Eye for an Eye 2 (2024) (720p)
+https://panguott.panguplay.workers.dev/dub/103491
+#EXTINF:-1 tvg-id="eye-for-an-eye-2-2024_1080p" tvg-name="Eye for an Eye 2 (2024) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mkfznkTshGBp88SFQQAGsr3R62z.jpg" group-title="Movies",Eye for an Eye 2 (2024) (1080p)
+https://panguott.panguplay.workers.dev/dub/103487
+
+#EXTINF:-1 tvg-id="motives-2004_720p" tvg-name="Motives (2004) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sqGiAqnPgW6XUv7oYRiahKnCxXo.jpg" group-title="Movies",Motives (2004) (720p)
+https://panguott.panguplay.workers.dev/dub/103507
+#EXTINF:-1 tvg-id="motives-2004_1080p" tvg-name="Motives (2004) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sqGiAqnPgW6XUv7oYRiahKnCxXo.jpg" group-title="Movies",Motives (2004) (1080p)
+https://panguott.panguplay.workers.dev/dub/103506
+
+#EXTINF:-1 tvg-id="the-bloody-blade-of-king-lanling-2021_720p" tvg-name="The Bloody Blade of King Lanling (2021) (720p)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTVhMzUyZTQtZjZmNS00NTAyLWE0NzAtZjdiMzg3NDU2MTk1XkEyXkFqcGc@._V1_QL75_UY562_CR20,0,380,562_.jpg" group-title="Movies",The Bloody Blade of King Lanling (2021) (720p)
+https://panguott.panguplay.workers.dev/dub/103504
+#EXTINF:-1 tvg-id="the-bloody-blade-of-king-lanling-2021_1080p" tvg-name="The Bloody Blade of King Lanling (2021) (1080p)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTVhMzUyZTQtZjZmNS00NTAyLWE0NzAtZjdiMzg3NDU2MTk1XkEyXkFqcGc@._V1_QL75_UY562_CR20,0,380,562_.jpg" group-title="Movies",The Bloody Blade of King Lanling (2021) (1080p)
+https://panguott.panguplay.workers.dev/dub/103500
+
+#EXTINF:-1 tvg-id="the-demon-hunter-2025_720p" tvg-name="The Demon Hunter (2025) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v3Mo77Qjp6pctpD4eJaNT6kFRSB.jpg" group-title="Movies",The Demon Hunter (2025) (720p)
+https://panguott.panguplay.workers.dev/dub/103473
+#EXTINF:-1 tvg-id="the-demon-hunter-2025_1080p" tvg-name="The Demon Hunter (2025) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v3Mo77Qjp6pctpD4eJaNT6kFRSB.jpg" group-title="Movies",The Demon Hunter (2025) (1080p)
+https://panguott.panguplay.workers.dev/dub/103469
+
 #EXTINF:-1 tvg-id="trap-house-2025_720p" tvg-name="Trap House (2025) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ctU9S47MoJDN9CB7SCaitcfyyIu.jpg" group-title="Movies",Trap House (2025) (720p)
 https://panguott.panguplay.workers.dev/dub/103463
 #EXTINF:-1 tvg-id="trap-house-2025_1080p" tvg-name="Trap House (2025) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ctU9S47MoJDN9CB7SCaitcfyyIu.jpg" group-title="Movies",Trap House (2025) (1080p)
