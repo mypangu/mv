@@ -1,5 +1,39 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="45-2026" tvg-name="45 (2026) (720p)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGU1OGMxMDktZjMyMy00OTU0LTk3NzgtMWJiYThlMWE2NTkzXkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg" group-title="Movies",45 (2026) (720p)
+https://panguott.panguplay.workers.dev/play/95244
+
+#EXTINF:-1 tvg-id="mark-2025" tvg-name="Mark (2025) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jthl112MmTox6tj0vtiahhkOhKJ.jpg" group-title="Movies",Mark (2025) (720p)
+https://panguott.panguplay.workers.dev/play/95237
+
+#EXTINF:-1 tvg-id="dear-radhi-2026" tvg-name="Dear Radhi (2026) (720p)" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDBiOTBmYjctNzY5Mi00ZjAxLWJmZGUtZDk1ZDljZmNjNzhhXkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg" group-title="Movies",Dear Radhi (2026) (720p)
+https://panguott.panguplay.workers.dev/play/95252
+
+#EXTINF:-1 tvg-id="deva-2005_720p" tvg-name="Deva (2005) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qgsHuHXlQDEqZ5EQ7I9jiXuH0Fv.jpg" group-title="Movies",Deva (2005) (720p)
+https://panguott.panguplay.workers.dev/play/95222
+#EXTINF:-1 tvg-id="deva-2005_1080p" tvg-name="Deva (2005) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qgsHuHXlQDEqZ5EQ7I9jiXuH0Fv.jpg" group-title="Movies",Deva (2005) (1080p)
+https://panguott.panguplay.workers.dev/play/95217
+
+#EXTINF:-1 tvg-id="drive-2025_720p" tvg-name="Drive (2025) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oVGF9rIuALQS4LIAzzzNG042VP1.jpg" group-title="Movies",Drive (2025) (720p)
+https://panguott.panguplay.workers.dev/play/95197
+#EXTINF:-1 tvg-id="drive-2025_1080p" tvg-name="Drive (2025) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oVGF9rIuALQS4LIAzzzNG042VP1.jpg" group-title="Movies",Drive (2025) (1080p)
+https://panguott.panguplay.workers.dev/play/95199
+
+#EXTINF:-1 tvg-id="eko-2025_720p" tvg-name="Eko (2025) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tXdFEmtqLm8tewIErDJgnbTS9qs.jpg" group-title="Movies",Eko (2025) (720p)
+https://panguott.panguplay.workers.dev/play/95212
+#EXTINF:-1 tvg-id="eko-2025_1080p" tvg-name="Eko (2025) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tXdFEmtqLm8tewIErDJgnbTS9qs.jpg" group-title="Movies",Eko (2025) (1080p)
+https://panguott.panguplay.workers.dev/play/95207
+
+#EXTINF:-1 tvg-id="kumki-2-2025_720p" tvg-name="Kumki 2 (2025) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wBz0uP5urY0JqNERnCCTtSVB0HK.jpg" group-title="Movies",Kumki 2 (2025) (720p)
+https://panguott.panguplay.workers.dev/play/95187
+#EXTINF:-1 tvg-id="kumki-2-2025_1080p" tvg-name="Kumki 2 (2025) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wBz0uP5urY0JqNERnCCTtSVB0HK.jpg" group-title="Movies",Kumki 2 (2025) (1080p)
+https://panguott.panguplay.workers.dev/play/95182
+
+#EXTINF:-1 tvg-id="raja-pokkisham-thota-bavi-2025_720p" tvg-name="Raja Pokkisham Thota Bavi (2025) (720p)" tvg-logo="https://media.ragalahari.com/posters/2021/thota-bhaavi-poster.jpg" group-title="Movies",Raja Pokkisham Thota Bavi (2025) (720p)
+https://panguott.panguplay.workers.dev/play/95230
+#EXTINF:-1 tvg-id="raja-pokkisham-thota-bavi-2025_1080p" tvg-name="Raja Pokkisham Thota Bavi (2025) (1080p)" tvg-logo="https://media.ragalahari.com/posters/2021/thota-bhaavi-poster.jpg" group-title="Movies",Raja Pokkisham Thota Bavi (2025) (1080p)
+https://panguott.panguplay.workers.dev/play/95226
+
 #EXTINF:-1 tvg-id="yellow-2025_720p" tvg-name="Yellow (2025) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gAIPCJAJlbAozSzW3PKi7OU2ueH.jpg" group-title="Movies",Yellow (2025) (720p)
 https://panguott.panguplay.workers.dev/play/95167
 #EXTINF:-1 tvg-id="yellow-2025_1080p" tvg-name="Yellow (2025) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gAIPCJAJlbAozSzW3PKi7OU2ueH.jpg" group-title="Movies",Yellow (2025) (1080p)
