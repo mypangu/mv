@@ -1,5 +1,50 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="the-bed-2026" tvg-name="The Bed (2026) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6CdtezbuyAOoysNeHacPXxPqXSz.jpg" group-title="Movies",The Bed (2026) (720p)
+https://panguott.panguplay.workers.dev/play/95290
+
+#EXTINF:-1 tvg-id="anali-2026" tvg-name="Anali (2026) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/swU1gHR88apVPthor7RVv8AOa1j.jpg" group-title="Movies",Anali (2026) (720p)
+https://panguott.panguplay.workers.dev/play/95306
+
+#EXTINF:-1 tvg-id="justice-for-jeni-2026" tvg-name="Justice for Jeni (2026) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lxNJzRszqYgRSdWlyyXUJD0RHm4.jpg" group-title="Movies",Justice for Jeni (2026) (720p)
+https://panguott.panguplay.workers.dev/play/95324
+
+#EXTINF:-1 tvg-id="jana-nayagan-thalapathy-speech-2026_720p" tvg-name="Jana Nayagan Thalapathy Speech (2026) (720p)" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTE1M2ZkZjYtNzExNi00MTQwLTg3ZDYtYTA3YmQyMDgyZjU4XkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg" group-title="Movies",Jana Nayagan Thalapathy Speech (2026) (720p)
+https://panguott.panguplay.workers.dev/play/95276
+#EXTINF:-1 tvg-id="jana-nayagan-thalapathy-speech-2026_1080p" tvg-name="Jana Nayagan Thalapathy Speech (2026) (1080p)" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTE1M2ZkZjYtNzExNi00MTQwLTg3ZDYtYTA3YmQyMDgyZjU4XkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg" group-title="Movies",Jana Nayagan Thalapathy Speech (2026) (1080p)
+https://panguott.panguplay.workers.dev/play/95272
+
+#EXTINF:-1 tvg-id="jana-nayagan-audio-launch-2026" tvg-name="Jana Nayagan Audio Launch (2026) (720p)" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/jt8pfSIdi47YpFMMWVRr8w5u2S0.jpg" group-title="Movies",Jana Nayagan Audio Launch (2026) (720p)
+https://panguott.panguplay.workers.dev/play/95269
+
+#EXTINF:-1 tvg-id="parasakthi-audio-launch-2026" tvg-name="Parasakthi Audio Launch (2026) (720p)" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/cpKJGYU8Z1iSXzkgDl8vhazk5EQ.jpg" group-title="Movies",Parasakthi Audio Launch (2026) (720p)
+https://panguott.panguplay.workers.dev/play/95282
+
+#EXTINF:-1 tvg-id="salliyargal-2024_720p" tvg-name="Salliyargal (2024) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/23YYV6nqEkrsBCxpfcNkY1ZUqOc.jpg" group-title="Movies",Salliyargal (2024) (720p)
+https://panguott.panguplay.workers.dev/play/95299
+#EXTINF:-1 tvg-id="salliyargal-2024_1080p" tvg-name="Salliyargal (2024) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/23YYV6nqEkrsBCxpfcNkY1ZUqOc.jpg" group-title="Movies",Salliyargal (2024) (1080p)
+https://panguott.panguplay.workers.dev/play/95294
+
+#EXTINF:-1 tvg-id="maaveeran-2009_720p" tvg-name="Maaveeran (2009) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xK7MEV56GF291VG0U5XnVJuvNv3.jpg" group-title="Movies",Maaveeran (2009) (720p)
+https://panguott.panguplay.workers.dev/play/95317
+#EXTINF:-1 tvg-id="maaveeran-2009_1080p" tvg-name="Maaveeran (2009) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xK7MEV56GF291VG0U5XnVJuvNv3.jpg" group-title="Movies",Maaveeran (2009) (1080p)
+https://panguott.panguplay.workers.dev/play/95312
+
+#EXTINF:-1 tvg-id="iraivi-2016_720p" tvg-name="Iraivi (2016) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/81wvyetBoSvsGobxzClUtoTX1UD.jpg" group-title="Movies",Iraivi (2016) (720p)
+https://panguott.panguplay.workers.dev/play/95334
+#EXTINF:-1 tvg-id="iraivi-2016_1080p" tvg-name="Iraivi (2016) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/81wvyetBoSvsGobxzClUtoTX1UD.jpg" group-title="Movies",Iraivi (2016) (1080p)
+https://panguott.panguplay.workers.dev/play/95329
+
+#EXTINF:-1 tvg-id="virumaandi-2005_720p" tvg-name="Virumaandi (2005) (720p)" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/w6m82voYXa6jQEEqzIBTkKRtuYB.jpg" group-title="Movies",Virumaandi (2005) (720p)
+https://panguott.panguplay.workers.dev/play/95343
+#EXTINF:-1 tvg-id="virumaandi-2005_1080p" tvg-name="Virumaandi (2005) (1080p)" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/w6m82voYXa6jQEEqzIBTkKRtuYB.jpg" group-title="Movies",Virumaandi (2005) (1080p)
+https://panguott.panguplay.workers.dev/play/95338
+
+#EXTINF:-1 tvg-id="thalaivaa-2013_720p" tvg-name="Thalaivaa (2013) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5h2SfwKTbbp0T21kjrOPU3QMaHn.jpg" group-title="Movies",Thalaivaa (2013) (720p)
+https://panguott.panguplay.workers.dev/play/83089
+#EXTINF:-1 tvg-id="thalaivaa-2013_1080p" tvg-name="Thalaivaa (2013) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5h2SfwKTbbp0T21kjrOPU3QMaHn.jpg" group-title="Movies",Thalaivaa (2013) (1080p)
+https://panguott.panguplay.workers.dev/play/95350
+
 #EXTINF:-1 tvg-id="45-2026" tvg-name="45 (2026) (720p)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGU1OGMxMDktZjMyMy00OTU0LTk3NzgtMWJiYThlMWE2NTkzXkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg" group-title="Movies",45 (2026) (720p)
 https://panguott.panguplay.workers.dev/play/95244
 
