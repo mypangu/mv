@@ -1,5 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="people-we-meet-on-vacation-2026_720p" tvg-name="People We Meet On Vacation (2026) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xzZaU0MN6L9oc1pl0RUXSB7hWwD.jpg" group-title="Movies",People We Meet On Vacation (2026) (720p)
+https://panguott.panguplay.workers.dev/dub/103643
+#EXTINF:-1 tvg-id="people-we-meet-on-vacation-2026_1080p" tvg-name="People We Meet On Vacation (2026) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xzZaU0MN6L9oc1pl0RUXSB7hWwD.jpg" group-title="Movies",People We Meet On Vacation (2026) (1080p)
+https://panguott.panguplay.workers.dev/dub/103639
+
 #EXTINF:-1 tvg-id="operation-overreach-universe-part-2-sheltered-2024_720p" tvg-name="Operation Overreach Universe Part 2 Sheltered (2024) (720p)" tvg-logo="https://canvas-lb.tubitv.com/opts/_gMm0kaGgyQpbQ==/a7f296f3-06c3-4cb5-8251-a0bf9a41b520/CJgDEMcEOgUxLjEuNg==" group-title="Movies",Operation Overreach Universe Part 2 Sheltered (2024) (720p)
 https://panguott.panguplay.workers.dev/dub/103524
 #EXTINF:-1 tvg-id="operation-overreach-universe-part-2-sheltered-2024_1080p" tvg-name="Operation Overreach Universe Part 2 Sheltered (2024) (1080p)" tvg-logo="https://canvas-lb.tubitv.com/opts/_gMm0kaGgyQpbQ==/a7f296f3-06c3-4cb5-8251-a0bf9a41b520/CJgDEMcEOgUxLjEuNg==" group-title="Movies",Operation Overreach Universe Part 2 Sheltered (2024) (1080p)
