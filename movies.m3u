@@ -1,5 +1,53 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="parasakthi-2026_720p" tvg-name="Parasakthi (2026) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cpKJGYU8Z1iSXzkgDl8vhazk5EQ.jpg" group-title="Movies",Parasakthi (2026) (720p)
+https://panguott.panguplay.workers.dev/play/95454
+#EXTINF:-1 tvg-id="parasakthi-2026_1080p" tvg-name="Parasakthi (2026) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cpKJGYU8Z1iSXzkgDl8vhazk5EQ.jpg" group-title="Movies",Parasakthi (2026) (1080p)
+https://panguott.panguplay.workers.dev/play/95456
+
+#EXTINF:-1 tvg-id="the-raja-saab-2026" tvg-name="The Raja Saab (2026) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nvK6gYa4diCnQkDVN42uoYXPrdT.jpg" group-title="Movies",The Raja Saab (2026) (720p)
+https://panguott.panguplay.workers.dev/play/95426
+
+#EXTINF:-1 tvg-id="akhanda-2-thaandavam-2025_720p" tvg-name="Akhanda 2 Thaandavam (2025) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jo9efbQSGDZNQ6xMocyD1prFjdF.jpg" group-title="Movies",Akhanda 2 Thaandavam (2025) (720p)
+https://panguott.panguplay.workers.dev/play/95397
+#EXTINF:-1 tvg-id="akhanda-2-thaandavam-2025_1080p" tvg-name="Akhanda 2 Thaandavam (2025) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jo9efbQSGDZNQ6xMocyD1prFjdF.jpg" group-title="Movies",Akhanda 2 Thaandavam (2025) (1080p)
+https://panguott.panguplay.workers.dev/play/95392
+
+#EXTINF:-1 tvg-id="not-all-movies-are-the-same-dual-2025_720p" tvg-name="Not All Movies Are the Same Dual (2025) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wvHzhN4dSZC9gw66w09GTaf0egx.jpg" group-title="Movies",Not All Movies Are the Same Dual (2025) (720p)
+https://panguott.panguplay.workers.dev/play/95358
+#EXTINF:-1 tvg-id="not-all-movies-are-the-same-dual-2025_1080p" tvg-name="Not All Movies Are the Same Dual (2025) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wvHzhN4dSZC9gw66w09GTaf0egx.jpg" group-title="Movies",Not All Movies Are the Same Dual (2025) (1080p)
+https://panguott.panguplay.workers.dev/play/95360
+
+#EXTINF:-1 tvg-id="central-2025_720p" tvg-name="Central (2025) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zJvp7XjQ2LhPbDVYhFXyucs40vR.jpg" group-title="Movies",Central (2025) (720p)
+https://panguott.panguplay.workers.dev/play/95364
+#EXTINF:-1 tvg-id="central-2025_1080p" tvg-name="Central (2025) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zJvp7XjQ2LhPbDVYhFXyucs40vR.jpg" group-title="Movies",Central (2025) (1080p)
+https://panguott.panguplay.workers.dev/play/95366
+
+#EXTINF:-1 tvg-id="mask-2025_720p" tvg-name="Mask (2025) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kOid1nRaravpgSE2I6L1nLBTMYD.jpg" group-title="Movies",Mask (2025) (720p)
+https://panguott.panguplay.workers.dev/play/95388
+#EXTINF:-1 tvg-id="mask-2025_1080p" tvg-name="Mask (2025) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kOid1nRaravpgSE2I6L1nLBTMYD.jpg" group-title="Movies",Mask (2025) (1080p)
+https://panguott.panguplay.workers.dev/play/95383
+
+#EXTINF:-1 tvg-id="angammal-2025_720p" tvg-name="Angammal (2025) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/40hCB8YcFo2XT8yPUzpFdDmDwgS.jpg" group-title="Movies",Angammal (2025) (720p)
+https://panguott.panguplay.workers.dev/play/95380
+#EXTINF:-1 tvg-id="angammal-2025_1080p" tvg-name="Angammal (2025) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/40hCB8YcFo2XT8yPUzpFdDmDwgS.jpg" group-title="Movies",Angammal (2025) (1080p)
+https://panguott.panguplay.workers.dev/play/95375
+
+#EXTINF:-1 tvg-id="mahasenha-2025_720p" tvg-name="Mahasenha (2025) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kQeOxMQ1F8E5vixcLfju3vYRT0U.jpg" group-title="Movies",Mahasenha (2025) (720p)
+https://panguott.panguplay.workers.dev/play/95405
+#EXTINF:-1 tvg-id="mahasenha-2025_1080p" tvg-name="Mahasenha (2025) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kQeOxMQ1F8E5vixcLfju3vYRT0U.jpg" group-title="Movies",Mahasenha (2025) (1080p)
+https://panguott.panguplay.workers.dev/play/95400
+
+#EXTINF:-1 tvg-id="vazhikaaval-2026_720p" tvg-name="Vazhikaaval (2026) (720p)" tvg-logo="https://www.ottrelease.com/wp-content/uploads/2026/01/Vazhikaaval-02.jpg" group-title="Movies",Vazhikaaval (2026) (720p)
+https://panguott.panguplay.workers.dev/play/95443
+#EXTINF:-1 tvg-id="vazhikaaval-2026_1080p" tvg-name="Vazhikaaval (2026) (1080p)" tvg-logo="https://www.ottrelease.com/wp-content/uploads/2026/01/Vazhikaaval-02.jpg" group-title="Movies",Vazhikaaval (2026) (1080p)
+https://panguott.panguplay.workers.dev/play/95438
+
+#EXTINF:-1 tvg-id="mowgli-2025_720p" tvg-name="Mowgli (2025) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwyXKqVffOOoES5HhJutqivYEVi.jpg" group-title="Movies",Mowgli (2025) (720p)
+https://panguott.panguplay.workers.dev/play/95434
+#EXTINF:-1 tvg-id="mowgli-2025_1080p" tvg-name="Mowgli (2025) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwyXKqVffOOoES5HhJutqivYEVi.jpg" group-title="Movies",Mowgli (2025) (1080p)
+https://panguott.panguplay.workers.dev/play/95447
+
 #EXTINF:-1 tvg-id="the-bed-2026" tvg-name="The Bed (2026) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6CdtezbuyAOoysNeHacPXxPqXSz.jpg" group-title="Movies",The Bed (2026) (720p)
 https://panguott.panguplay.workers.dev/play/95290
 
@@ -281,9 +329,6 @@ https://panguott.panguplay.workers.dev/play/94747
 
 #EXTINF:-1 tvg-id="mahasenha-2025" tvg-name="Mahasenha (2025) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kQeOxMQ1F8E5vixcLfju3vYRT0U.jpg" group-title="Movies",Mahasenha (2025) (720p)
 https://panguott.panguplay.workers.dev/play/94729
-
-#EXTINF:-1 tvg-id="akhanda-2-2025" tvg-name="Akhanda 2 (2025) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2RGcVKH22rPBN21bq4nlx8wBUD6.jpg" group-title="Movies",Akhanda 2 (2025) (720p)
-https://panguott.panguplay.workers.dev/play/94719
 
 #EXTINF:-1 tvg-id="12a-railway-colony-2025_720p" tvg-name="12A Railway Colony (2025) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wrFVQ5dNoyAIvgJHK8cflDnL6it.jpg" group-title="Movies",12A Railway Colony (2025) (720p)
 https://panguott.panguplay.workers.dev/play/94633
