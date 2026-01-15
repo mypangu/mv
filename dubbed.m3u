@@ -1,5 +1,30 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="shell-2024_720p" tvg-name="Shell (2024) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2XBNS8DxMFP7qOoTOY7cc8OYFwI.jpg" group-title="Movies",Shell (2024) (720p)
+https://panguott.panguplay.workers.dev/dub/103690
+#EXTINF:-1 tvg-id="shell-2024_1080p" tvg-name="Shell (2024) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2XBNS8DxMFP7qOoTOY7cc8OYFwI.jpg" group-title="Movies",Shell (2024) (1080p)
+https://panguott.panguplay.workers.dev/dub/103686
+
+#EXTINF:-1 tvg-id="mountain-top-2017_720p" tvg-name="Mountain Top (2017) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aJONVlmZHCPvdm4R6S4K1sFXr3n.jpg" group-title="Movies",Mountain Top (2017) (720p)
+https://panguott.panguplay.workers.dev/dub/103657
+#EXTINF:-1 tvg-id="mountain-top-2017_1080p" tvg-name="Mountain Top (2017) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aJONVlmZHCPvdm4R6S4K1sFXr3n.jpg" group-title="Movies",Mountain Top (2017) (1080p)
+https://panguott.panguplay.workers.dev/dub/103653
+
+#EXTINF:-1 tvg-id="harry-potter-and-the-deathly-hallows-part-2-2011_720p" tvg-name="Harry Potter and The Deathly Hallows Part 2 (2011) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c54HpQmuwXjHq2C9wmoACjxoom3.jpg" group-title="Movies",Harry Potter and The Deathly Hallows Part 2 (2011) (720p)
+https://panguott.panguplay.workers.dev/dub/103677
+#EXTINF:-1 tvg-id="harry-potter-and-the-deathly-hallows-part-2-2011_1080p" tvg-name="Harry Potter and The Deathly Hallows Part 2 (2011) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c54HpQmuwXjHq2C9wmoACjxoom3.jpg" group-title="Movies",Harry Potter and The Deathly Hallows Part 2 (2011) (1080p)
+https://panguott.panguplay.workers.dev/dub/103679
+
+#EXTINF:-1 tvg-id="harry-potter-and-the-deathly-hallows-part-1-2010_720p" tvg-name="Harry Potter and The Deathly Hallows Part 1 (2010) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iGoXIpQb7Pot00EEdwpwPajheZ5.jpg" group-title="Movies",Harry Potter and The Deathly Hallows Part 1 (2010) (720p)
+https://panguott.panguplay.workers.dev/dub/103665
+#EXTINF:-1 tvg-id="harry-potter-and-the-deathly-hallows-part-1-2010_1080p" tvg-name="Harry Potter and The Deathly Hallows Part 1 (2010) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iGoXIpQb7Pot00EEdwpwPajheZ5.jpg" group-title="Movies",Harry Potter and The Deathly Hallows Part 1 (2010) (1080p)
+https://panguott.panguplay.workers.dev/dub/103675
+
+#EXTINF:-1 tvg-id="nowhere-to-run-1993_720p" tvg-name="Nowhere to Run (1993) (720p)" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmQ4YzRiYTktNTExOC00YmQ4LTg3M2QtNDdiNDFlNmYwYmQxXkEyXkFqcGc@._V1_QL75_UX380_CR0,2,380,562_.jpg" group-title="Movies",Nowhere to Run (1993) (720p)
+https://panguott.panguplay.workers.dev/dub/103673
+#EXTINF:-1 tvg-id="nowhere-to-run-1993_1080p" tvg-name="Nowhere to Run (1993) (1080p)" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmQ4YzRiYTktNTExOC00YmQ4LTg3M2QtNDdiNDFlNmYwYmQxXkEyXkFqcGc@._V1_QL75_UX380_CR0,2,380,562_.jpg" group-title="Movies",Nowhere to Run (1993) (1080p)
+https://panguott.panguplay.workers.dev/dub/103671
+
 #EXTINF:-1 tvg-id="people-we-meet-on-vacation-2026_720p" tvg-name="People We Meet On Vacation (2026) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xzZaU0MN6L9oc1pl0RUXSB7hWwD.jpg" group-title="Movies",People We Meet On Vacation (2026) (720p)
 https://panguott.panguplay.workers.dev/dub/103643
 #EXTINF:-1 tvg-id="people-we-meet-on-vacation-2026_1080p" tvg-name="People We Meet On Vacation (2026) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xzZaU0MN6L9oc1pl0RUXSB7hWwD.jpg" group-title="Movies",People We Meet On Vacation (2026) (1080p)
