@@ -1,9 +1,37 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="vaa-vaathiyaar-2026_720p" tvg-name="Vaa Vaathiyaar (2026) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2CO8y3nlDcPRHqXuOQarl8X9GZT.jpg" group-title="Movies",Vaa Vaathiyaar (2026) (720p)
+https://panguott.panguplay.workers.dev/play/95523
+#EXTINF:-1 tvg-id="vaa-vaathiyaar-2026_1080p" tvg-name="Vaa Vaathiyaar (2026) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2CO8y3nlDcPRHqXuOQarl8X9GZT.jpg" group-title="Movies",Vaa Vaathiyaar (2026) (1080p)
+https://panguott.panguplay.workers.dev/play/95525
+
 #EXTINF:-1 tvg-id="parasakthi-2026_720p" tvg-name="Parasakthi (2026) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cpKJGYU8Z1iSXzkgDl8vhazk5EQ.jpg" group-title="Movies",Parasakthi (2026) (720p)
-https://panguott.panguplay.workers.dev/play/95454
+https://panguott.panguplay.workers.dev/play/95486
 #EXTINF:-1 tvg-id="parasakthi-2026_1080p" tvg-name="Parasakthi (2026) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cpKJGYU8Z1iSXzkgDl8vhazk5EQ.jpg" group-title="Movies",Parasakthi (2026) (1080p)
-https://panguott.panguplay.workers.dev/play/95456
+https://panguott.panguplay.workers.dev/play/95481
+
+#EXTINF:-1 tvg-id="anantha-2026_720p" tvg-name="Anantha (2026) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y1GAbomStmF8dnvrsYzUGiqBFy4.jpg" group-title="Movies",Anantha (2026) (720p)
+https://panguott.panguplay.workers.dev/play/95497
+#EXTINF:-1 tvg-id="anantha-2026_1080p" tvg-name="Anantha (2026) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y1GAbomStmF8dnvrsYzUGiqBFy4.jpg" group-title="Movies",Anantha (2026) (1080p)
+https://panguott.panguplay.workers.dev/play/95492
+
+#EXTINF:-1 tvg-id="simple-manusan-2025_720p" tvg-name="Simple Manusan (2025) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6VtGPieBtQIfyOO29WAQIrlMkS1.jpg" group-title="Movies",Simple Manusan (2025) (720p)
+https://panguott.panguplay.workers.dev/play/95465
+#EXTINF:-1 tvg-id="simple-manusan-2025_1080p" tvg-name="Simple Manusan (2025) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6VtGPieBtQIfyOO29WAQIrlMkS1.jpg" group-title="Movies",Simple Manusan (2025) (1080p)
+https://panguott.panguplay.workers.dev/play/95467
+
+#EXTINF:-1 tvg-id="dhandoraa-2025_720p" tvg-name="Dhandoraa (2025) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hs3wQWyXPQEHxnMjXOXRoHY0dOG.jpg" group-title="Movies",Dhandoraa (2025) (720p)
+https://panguott.panguplay.workers.dev/play/95507
+#EXTINF:-1 tvg-id="dhandoraa-2025_1080p" tvg-name="Dhandoraa (2025) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hs3wQWyXPQEHxnMjXOXRoHY0dOG.jpg" group-title="Movies",Dhandoraa (2025) (1080p)
+https://panguott.panguplay.workers.dev/play/95502
+
+#EXTINF:-1 tvg-id="naalaiya-theerpu-1992_720p" tvg-name="Naalaiya Theerpu (1992) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4k2p95mNHUrEV3uEll4WUp6Ql4c.jpg" group-title="Movies",Naalaiya Theerpu (1992) (720p)
+https://panguott.panguplay.workers.dev/play/95478
+#EXTINF:-1 tvg-id="naalaiya-theerpu-1992_1080p" tvg-name="Naalaiya Theerpu (1992) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4k2p95mNHUrEV3uEll4WUp6Ql4c.jpg" group-title="Movies",Naalaiya Theerpu (1992) (1080p)
+https://panguott.panguplay.workers.dev/play/95473
+
+#EXTINF:-1 tvg-id="apno-se-bewafai-2023" tvg-name="Apno Se Bewafai (2023) (720p)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzg0OTBiZDYtZDI3ZC00MTJiLThlNzItYTc5ZmJiZDk5YzdmXkEyXkFqcGc@._V1_QL75_UY562_CR12,0,380,562_.jpg" group-title="Movies",Apno Se Bewafai (2023) (720p)
+https://panguott.panguplay.workers.dev/play/95535
 
 #EXTINF:-1 tvg-id="the-raja-saab-2026" tvg-name="The Raja Saab (2026) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nvK6gYa4diCnQkDVN42uoYXPrdT.jpg" group-title="Movies",The Raja Saab (2026) (720p)
 https://panguott.panguplay.workers.dev/play/95426
