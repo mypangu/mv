@@ -1,5 +1,98 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="vinaipayan-2026_720p" tvg-name="Vinaipayan (2026) (720p)" tvg-logo="https://moviesda16.com/uploads/posters/vinaipayan-2026.webp" group-title="Movies",Vinaipayan (2026) (720p)
+https://panguott.panguplay.workers.dev/play/95696
+#EXTINF:-1 tvg-id="vinaipayan-2026_1080p" tvg-name="Vinaipayan (2026) (1080p)" tvg-logo="https://moviesda16.com/uploads/posters/vinaipayan-2026.webp" group-title="Movies",Vinaipayan (2026) (1080p)
+https://panguott.panguplay.workers.dev/play/95692
+
+#EXTINF:-1 tvg-id="du-ri-me-2026_720p" tvg-name="Du Ri Me (2026) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cEQXOztRjemAlmKyeIgPA0KoWLf.jpg" group-title="Movies",Du Ri Me (2026) (720p)
+https://panguott.panguplay.workers.dev/play/95685
+#EXTINF:-1 tvg-id="du-ri-me-2026_1080p" tvg-name="Du Ri Me (2026) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cEQXOztRjemAlmKyeIgPA0KoWLf.jpg" group-title="Movies",Du Ri Me (2026) (1080p)
+https://panguott.panguplay.workers.dev/play/95688
+
+#EXTINF:-1 tvg-id="hot-spot-2024" tvg-name="Hot Spot (2024) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lBhGZKyF4PVWemPsD5urEOnFiHz.jpg" group-title="Movies",Hot Spot (2024) (720p)
+https://panguott.panguplay.workers.dev/play/95707
+
+#EXTINF:-1 tvg-id="retta-thala-2025_720p" tvg-name="Retta Thala (2025) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zlE1oVtfr7MckzDyEMZkF4WIvGG.jpg" group-title="Movies",Retta Thala (2025) (720p)
+https://panguott.panguplay.workers.dev/play/95705
+#EXTINF:-1 tvg-id="retta-thala-2025_1080p" tvg-name="Retta Thala (2025) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zlE1oVtfr7MckzDyEMZkF4WIvGG.jpg" group-title="Movies",Retta Thala (2025) (1080p)
+https://panguott.panguplay.workers.dev/play/95700
+
+#EXTINF:-1 tvg-id="rippan-swamy-2025_720p" tvg-name="Rippan Swamy (2025) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/miGiKbwWpMBdh49PpPvQP5u5DjI.jpg" group-title="Movies",Rippan Swamy (2025) (720p)
+https://panguott.panguplay.workers.dev/play/95677
+#EXTINF:-1 tvg-id="rippan-swamy-2025_1080p" tvg-name="Rippan Swamy (2025) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/miGiKbwWpMBdh49PpPvQP5u5DjI.jpg" group-title="Movies",Rippan Swamy (2025) (1080p)
+https://panguott.panguplay.workers.dev/play/95674
+
+#EXTINF:-1 tvg-id="mudhalvan-1999_720p" tvg-name="Mudhalvan (1999) (720p)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTJmNDJkNWItNzMwZS00MGE3LThmNDItODkzYzQ4YjQzYTY2XkEyXkFqcGc@._V1_QL75_UY562_CR18,0,380,562_.jpg" group-title="Movies",Mudhalvan (1999) (720p)
+https://panguott.panguplay.workers.dev/play/95718
+#EXTINF:-1 tvg-id="mudhalvan-1999_1080p" tvg-name="Mudhalvan (1999) (1080p)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTJmNDJkNWItNzMwZS00MGE3LThmNDItODkzYzQ4YjQzYTY2XkEyXkFqcGc@._V1_QL75_UY562_CR18,0,380,562_.jpg" group-title="Movies",Mudhalvan (1999) (1080p)
+https://panguott.panguplay.workers.dev/play/95713
+
+#EXTINF:-1 tvg-id="chocobar-2016_720p" tvg-name="Chocobar (2016) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pft9g2HXIZcQKXPmIH8HV8v5wJm.jpg" group-title="Movies",Chocobar (2016) (720p)
+https://panguott.panguplay.workers.dev/play/95732
+#EXTINF:-1 tvg-id="chocobar-2016_1080p" tvg-name="Chocobar (2016) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pft9g2HXIZcQKXPmIH8HV8v5wJm.jpg" group-title="Movies",Chocobar (2016) (1080p)
+https://panguott.panguplay.workers.dev/play/95727
+
+#EXTINF:-1 tvg-id="sirai-2025_720p" tvg-name="Sirai (2025) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mltVJD7mBayiw1BubwUL0cx6T1c.jpg" group-title="Movies",Sirai (2025) (720p)
+https://panguott.panguplay.workers.dev/play/95740
+#EXTINF:-1 tvg-id="sirai-2025_1080p" tvg-name="Sirai (2025) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mltVJD7mBayiw1BubwUL0cx6T1c.jpg" group-title="Movies",Sirai (2025) (1080p)
+https://panguott.panguplay.workers.dev/play/95735
+
+#EXTINF:-1 tvg-id="mark-2025_720p" tvg-name="Mark (2025) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jthl112MmTox6tj0vtiahhkOhKJ.jpg" group-title="Movies",Mark (2025) (720p)
+https://panguott.panguplay.workers.dev/play/95750
+#EXTINF:-1 tvg-id="mark-2025_1080p" tvg-name="Mark (2025) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jthl112MmTox6tj0vtiahhkOhKJ.jpg" group-title="Movies",Mark (2025) (1080p)
+https://panguott.panguplay.workers.dev/play/95746
+
+#EXTINF:-1 tvg-id="cheekatilo-2026_720p" tvg-name="Cheekatilo (2026) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pO86EjZb7QyGYk5RW4Xm4UWe5Uv.jpg" group-title="Movies",Cheekatilo (2026) (720p)
+https://panguott.panguplay.workers.dev/play/95771
+#EXTINF:-1 tvg-id="cheekatilo-2026_1080p" tvg-name="Cheekatilo (2026) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pO86EjZb7QyGYk5RW4Xm4UWe5Uv.jpg" group-title="Movies",Cheekatilo (2026) (1080p)
+https://panguott.panguplay.workers.dev/play/95766
+
+#EXTINF:-1 tvg-id="tere-ishk-mein-2025_720p" tvg-name="Tere Ishk Mein (2025) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7FsHlW9z7gDhDE4EXAE2WcXUVQj.jpg" group-title="Movies",Tere Ishk Mein (2025) (720p)
+https://panguott.panguplay.workers.dev/play/95760
+#EXTINF:-1 tvg-id="tere-ishk-mein-2025_1080p" tvg-name="Tere Ishk Mein (2025) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7FsHlW9z7gDhDE4EXAE2WcXUVQj.jpg" group-title="Movies",Tere Ishk Mein (2025) (1080p)
+https://panguott.panguplay.workers.dev/play/95755
+
+#EXTINF:-1 tvg-id="hot-spot-2-much-2026_720p" tvg-name="Hot Spot 2 Much (2026) (720p)" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjA4MTQxZjUtMDI2NC00ZWE1LWFiMzAtYTIwYTA5ZTYyMjgzXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg" group-title="Movies",Hot Spot 2 Much (2026) (720p)
+https://panguott.panguplay.workers.dev/play/95793
+#EXTINF:-1 tvg-id="hot-spot-2-much-2026_1080p" tvg-name="Hot Spot 2 Much (2026) (1080p)" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjA4MTQxZjUtMDI2NC00ZWE1LWFiMzAtYTIwYTA5ZTYyMjgzXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg" group-title="Movies",Hot Spot 2 Much (2026) (1080p)
+https://panguott.panguplay.workers.dev/play/95802
+
+#EXTINF:-1 tvg-id="draupathi-2-2026_720p" tvg-name="Draupathi 2 (2026) (720p)" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2Y4ZTIwYTQtZTkxMS00YzBjLWFjYWEtOGI4Mjc2NDVhMWIxXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg" group-title="Movies",Draupathi 2 (2026) (720p)
+https://panguott.panguplay.workers.dev/play/95800
+#EXTINF:-1 tvg-id="draupathi-2-2026_1080p" tvg-name="Draupathi 2 (2026) (1080p)" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2Y4ZTIwYTQtZTkxMS00YzBjLWFjYWEtOGI4Mjc2NDVhMWIxXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg" group-title="Movies",Draupathi 2 (2026) (1080p)
+https://panguott.panguplay.workers.dev/play/95823
+
+#EXTINF:-1 tvg-id="autograph-2004_720p" tvg-name="Autograph (2004) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/icy3xHF6LcHSys9RxNAuI4xyAW1.jpg" group-title="Movies",Autograph (2004) (720p)
+https://panguott.panguplay.workers.dev/play/95811
+#EXTINF:-1 tvg-id="autograph-2004_1080p" tvg-name="Autograph (2004) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/icy3xHF6LcHSys9RxNAuI4xyAW1.jpg" group-title="Movies",Autograph (2004) (1080p)
+https://panguott.panguplay.workers.dev/play/95806
+
+#EXTINF:-1 tvg-id="raam-2005_720p" tvg-name="Raam (2005) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x2ABa7za51NlpojRlu2DE3wb3Rc.jpg" group-title="Movies",Raam (2005) (720p)
+https://panguott.panguplay.workers.dev/play/95821
+#EXTINF:-1 tvg-id="raam-2005_1080p" tvg-name="Raam (2005) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x2ABa7za51NlpojRlu2DE3wb3Rc.jpg" group-title="Movies",Raam (2005) (1080p)
+https://panguott.panguplay.workers.dev/play/95816
+
+#EXTINF:-1 tvg-id="salaar-2023_720p" tvg-name="Salaar (2023) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nlu9WbcetNFRGXXPWITr30ob7W6.jpg" group-title="Movies",Salaar (2023) (720p)
+https://panguott.panguplay.workers.dev/play/95833
+#EXTINF:-1 tvg-id="salaar-2023_1080p" tvg-name="Salaar (2023) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nlu9WbcetNFRGXXPWITr30ob7W6.jpg" group-title="Movies",Salaar (2023) (1080p)
+https://panguott.panguplay.workers.dev/play/95828
+
+#EXTINF:-1 tvg-id="ennamma-kannu-2000_720p" tvg-name="Ennamma Kannu (2000) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4X2FOi1qmDbij5Q7XjVkPoTAzdk.jpg" group-title="Movies",Ennamma Kannu (2000) (720p)
+https://panguott.panguplay.workers.dev/play/95843
+#EXTINF:-1 tvg-id="ennamma-kannu-2000_1080p" tvg-name="Ennamma Kannu (2000) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4X2FOi1qmDbij5Q7XjVkPoTAzdk.jpg" group-title="Movies",Ennamma Kannu (2000) (1080p)
+https://panguott.panguplay.workers.dev/play/95838
+
+#EXTINF:-1 tvg-id="kgf-chpater-2-2022_720p" tvg-name="KGF Chpater 2 (2022) (720p)" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmQzZjVkZTUtYjI4ZC00ZDJmLWI0ZDUtZTFmMGM1Mzc5ZjIyXkEyXkFqcGc@._V1_QL75_UY562_CR9,0,380,562_.jpg" group-title="Movies",KGF Chpater 2 (2022) (720p)
+https://panguott.panguplay.workers.dev/play/95853
+#EXTINF:-1 tvg-id="kgf-chpater-2-2022_1080p" tvg-name="KGF Chpater 2 (2022) (1080p)" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmQzZjVkZTUtYjI4ZC00ZDJmLWI0ZDUtZTFmMGM1Mzc5ZjIyXkEyXkFqcGc@._V1_QL75_UY562_CR9,0,380,562_.jpg" group-title="Movies",KGF Chpater 2 (2022) (1080p)
+https://panguott.panguplay.workers.dev/play/95848
+
+#EXTINF:-1 tvg-id="maayabimbum-2026_720p" tvg-name="Maayabimbum (2026) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6zMiVFdjJ4JXlkeHctHYQQOtEoy.jpg" group-title="Movies",Maayabimbum (2026) (720p)
+https://panguott.panguplay.workers.dev/play/95860
+#EXTINF:-1 tvg-id="maayabimbum-2026_1080p" tvg-name="Maayabimbum (2026) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6zMiVFdjJ4JXlkeHctHYQQOtEoy.jpg" group-title="Movies",Maayabimbum (2026) (1080p)
+https://panguott.panguplay.workers.dev/play/95862
+
 #EXTINF:-1 tvg-id="bank-of-bhagyalakshmi-2025_720p" tvg-name="Bank of Bhagyalakshmi (2025) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k3ZkowkAPpfLwhD8eV3OhFooYgo.jpg" group-title="Movies",Bank of Bhagyalakshmi (2025) (720p)
 https://panguott.panguplay.workers.dev/play/95562
 #EXTINF:-1 tvg-id="bank-of-bhagyalakshmi-2025_1080p" tvg-name="Bank of Bhagyalakshmi (2025) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k3ZkowkAPpfLwhD8eV3OhFooYgo.jpg" group-title="Movies",Bank of Bhagyalakshmi (2025) (1080p)
