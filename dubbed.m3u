@@ -1,5 +1,40 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="splitsville-2025_720p" tvg-name="Splitsville (2025) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gxCv6kUdywxYzIXX6xYcmX5APUV.jpg" group-title="Movies",Splitsville (2025) (720p)
+https://panguott.panguplay.workers.dev/dub/103779
+#EXTINF:-1 tvg-id="splitsville-2025_1080p" tvg-name="Splitsville (2025) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gxCv6kUdywxYzIXX6xYcmX5APUV.jpg" group-title="Movies",Splitsville (2025) (1080p)
+https://panguott.panguplay.workers.dev/dub/103775
+
+#EXTINF:-1 tvg-id="red-sky-2014_720p" tvg-name="Red Sky (2014) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h5wrpVvjeq8kgClO0CtX2aNOcxU.jpg" group-title="Movies",Red Sky (2014) (720p)
+https://panguott.panguplay.workers.dev/dub/103784
+#EXTINF:-1 tvg-id="red-sky-2014_1080p" tvg-name="Red Sky (2014) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h5wrpVvjeq8kgClO0CtX2aNOcxU.jpg" group-title="Movies",Red Sky (2014) (1080p)
+https://panguott.panguplay.workers.dev/dub/103782
+
+#EXTINF:-1 tvg-id="royal-monster-hunter-2019_720p" tvg-name="Royal Monster Hunter (2019) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h9YNSts8gurpIAVKbuCCiBxQre0.jpg" group-title="Movies",Royal Monster Hunter (2019) (720p)
+https://panguott.panguplay.workers.dev/dub/108517
+#EXTINF:-1 tvg-id="royal-monster-hunter-2019_1080p" tvg-name="Royal Monster Hunter (2019) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h9YNSts8gurpIAVKbuCCiBxQre0.jpg" group-title="Movies",Royal Monster Hunter (2019) (1080p)
+https://panguott.panguplay.workers.dev/dub/108513
+
+#EXTINF:-1 tvg-id="inception-2010_720p" tvg-name="Inception (2010) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlaY2zyzMfkhk0HSC5VUwzoZPU1.jpg" group-title="Movies",Inception (2010) (720p)
+https://panguott.panguplay.workers.dev/dub/108524
+#EXTINF:-1 tvg-id="inception-2010_1080p" tvg-name="Inception (2010) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlaY2zyzMfkhk0HSC5VUwzoZPU1.jpg" group-title="Movies",Inception (2010) (1080p)
+https://panguott.panguplay.workers.dev/dub/108520
+
+#EXTINF:-1 tvg-id="roger-cormans-operation-rogue-2014_720p" tvg-name="Roger Cormans Operation Rogue (2014) (720p)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjE5NGNkMzQtMmY4ZS00MDFkLTg5OGUtZWRjMGJiY2NmOTFmXkEyXkFqcGc@._V1_QL75_UY562_CR8,0,380,562_.jpg" group-title="Movies",Roger Cormans Operation Rogue (2014) (720p)
+https://panguott.panguplay.workers.dev/dub/108550
+#EXTINF:-1 tvg-id="roger-cormans-operation-rogue-2014_1080p" tvg-name="Roger Cormans Operation Rogue (2014) (1080p)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjE5NGNkMzQtMmY4ZS00MDFkLTg5OGUtZWRjMGJiY2NmOTFmXkEyXkFqcGc@._V1_QL75_UY562_CR8,0,380,562_.jpg" group-title="Movies",Roger Cormans Operation Rogue (2014) (1080p)
+https://panguott.panguplay.workers.dev/dub/108546
+
+#EXTINF:-1 tvg-id="afterburn-2025_720p" tvg-name="Afterburn (2025) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hrze9JXp2QJpc2WjLfSUtRxyYSb.jpg" group-title="Movies",Afterburn (2025) (720p)
+https://panguott.panguplay.workers.dev/dub/108561
+#EXTINF:-1 tvg-id="afterburn-2025_1080p" tvg-name="Afterburn (2025) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hrze9JXp2QJpc2WjLfSUtRxyYSb.jpg" group-title="Movies",Afterburn (2025) (1080p)
+https://panguott.panguplay.workers.dev/dub/108557
+
+#EXTINF:-1 tvg-id="in-his-steps-2013_720p" tvg-name="In His Steps (2013) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oKIxisYGBMIxmflCrFgvBWMfxvY.jpg" group-title="Movies",In His Steps (2013) (720p)
+https://panguott.panguplay.workers.dev/dub/108588
+#EXTINF:-1 tvg-id="in-his-steps-2013_1080p" tvg-name="In His Steps (2013) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oKIxisYGBMIxmflCrFgvBWMfxvY.jpg" group-title="Movies",In His Steps (2013) (1080p)
+https://panguott.panguplay.workers.dev/dub/108584
+
 #EXTINF:-1 tvg-id="the-wild-blade-of-strangers-2024_720p" tvg-name="The Wild Blade of Strangers (2024) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DZOU5qibB8WeXtzQ00Nl6tiqfw.jpg" group-title="Movies",The Wild Blade of Strangers (2024) (720p)
 https://panguott.panguplay.workers.dev/dub/103703
 #EXTINF:-1 tvg-id="the-wild-blade-of-strangers-2024_1080p" tvg-name="The Wild Blade of Strangers (2024) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DZOU5qibB8WeXtzQ00Nl6tiqfw.jpg" group-title="Movies",The Wild Blade of Strangers (2024) (1080p)
