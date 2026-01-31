@@ -1,5 +1,73 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="vaa-vaathiyaar-2026_720p" tvg-name="Vaa Vaathiyaar (2026) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2CO8y3nlDcPRHqXuOQarl8X9GZT.jpg" group-title="Movies",Vaa Vaathiyaar (2026) (720p)
+https://panguott.panguplay.workers.dev/play/95908
+#EXTINF:-1 tvg-id="vaa-vaathiyaar-2026_1080p" tvg-name="Vaa Vaathiyaar (2026) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2CO8y3nlDcPRHqXuOQarl8X9GZT.jpg" group-title="Movies",Vaa Vaathiyaar (2026) (1080p)
+https://panguott.panguplay.workers.dev/play/95902
+
+#EXTINF:-1 tvg-id="jockey-2026" tvg-name="Jockey (2026) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2CGm69ebTBnbqFZIT8cWSuRIb8S.jpg" group-title="Movies",Jockey (2026) (720p)
+https://panguott.panguplay.workers.dev/play/95869
+
+#EXTINF:-1 tvg-id="marudhamalai-2007_720p" tvg-name="Marudhamalai (2007) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yzYmDBOzbvteVND06Eh5U6XZo9a.jpg" group-title="Movies",Marudhamalai (2007) (720p)
+https://panguott.panguplay.workers.dev/play/95879
+#EXTINF:-1 tvg-id="marudhamalai-2007_1080p" tvg-name="Marudhamalai (2007) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yzYmDBOzbvteVND06Eh5U6XZo9a.jpg" group-title="Movies",Marudhamalai (2007) (1080p)
+https://panguott.panguplay.workers.dev/play/95873
+
+#EXTINF:-1 tvg-id="neranja-manasu-2004_720p" tvg-name="Neranja Manasu (2004) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jTfhZDeVcYAFz0S5qQgMuzmefgo.jpg" group-title="Movies",Neranja Manasu (2004) (720p)
+https://panguott.panguplay.workers.dev/play/95899
+#EXTINF:-1 tvg-id="neranja-manasu-2004_1080p" tvg-name="Neranja Manasu (2004) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jTfhZDeVcYAFz0S5qQgMuzmefgo.jpg" group-title="Movies",Neranja Manasu (2004) (1080p)
+https://panguott.panguplay.workers.dev/play/95893
+
+#EXTINF:-1 tvg-id="dubai-2001_720p" tvg-name="Dubai (2001) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/morjPaI1bvaXeHzcnYS8BS97O4c.jpg" group-title="Movies",Dubai (2001) (720p)
+https://panguott.panguplay.workers.dev/play/95912
+#EXTINF:-1 tvg-id="dubai-2001_1080p" tvg-name="Dubai (2001) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/morjPaI1bvaXeHzcnYS8BS97O4c.jpg" group-title="Movies",Dubai (2001) (1080p)
+https://panguott.panguplay.workers.dev/play/95914
+
+#EXTINF:-1 tvg-id="jai-hind-1994_720p" tvg-name="Jai Hind (1994) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x5XxNVosZSQjR8YzDTd2Y6SamHF.jpg" group-title="Movies",Jai Hind (1994) (720p)
+https://panguott.panguplay.workers.dev/play/95889
+#EXTINF:-1 tvg-id="jai-hind-1994_1080p" tvg-name="Jai Hind (1994) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x5XxNVosZSQjR8YzDTd2Y6SamHF.jpg" group-title="Movies",Jai Hind (1994) (1080p)
+https://panguott.panguplay.workers.dev/play/95883
+
+#EXTINF:-1 tvg-id="marco-2024_720p" tvg-name="Marco (2024) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/11cqYaw5KFRg3lw15tivfxM5yym.jpg" group-title="Movies",Marco (2024) (720p)
+https://panguott.panguplay.workers.dev/play/95926
+#EXTINF:-1 tvg-id="marco-2024_1080p" tvg-name="Marco (2024) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/11cqYaw5KFRg3lw15tivfxM5yym.jpg" group-title="Movies",Marco (2024) (1080p)
+https://panguott.panguplay.workers.dev/play/95920
+
+#EXTINF:-1 tvg-id="champion-2025_720p" tvg-name="Champion (2025) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uiImCUouyg1BHgkk9CE4VCaePWW.jpg" group-title="Movies",Champion (2025) (720p)
+https://panguott.panguplay.workers.dev/play/95935
+#EXTINF:-1 tvg-id="champion-2025_1080p" tvg-name="Champion (2025) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uiImCUouyg1BHgkk9CE4VCaePWW.jpg" group-title="Movies",Champion (2025) (1080p)
+https://panguott.panguplay.workers.dev/play/95936
+
+#EXTINF:-1 tvg-id="dhurandhar-2025_720p" tvg-name="Dhurandhar (2025) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4lKTTGMKociBfRhEHRnozsNBUVr.jpg" group-title="Movies",Dhurandhar (2025) (720p)
+https://panguott.panguplay.workers.dev/play/95958
+#EXTINF:-1 tvg-id="dhurandhar-2025_1080p" tvg-name="Dhurandhar (2025) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4lKTTGMKociBfRhEHRnozsNBUVr.jpg" group-title="Movies",Dhurandhar (2025) (1080p)
+https://panguott.panguplay.workers.dev/play/95968
+
+#EXTINF:-1 tvg-id="sarvam-maya-2025_720p" tvg-name="Sarvam Maya (2025) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mgLY1aQayVX6dQ2DiylLAhjEG8w.jpg" group-title="Movies",Sarvam Maya (2025) (720p)
+https://panguott.panguplay.workers.dev/play/95967
+#EXTINF:-1 tvg-id="sarvam-maya-2025_1080p" tvg-name="Sarvam Maya (2025) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mgLY1aQayVX6dQ2DiylLAhjEG8w.jpg" group-title="Movies",Sarvam Maya (2025) (1080p)
+https://panguott.panguplay.workers.dev/play/95969
+
+#EXTINF:-1 tvg-id="patang-2025_720p" tvg-name="Patang (2025) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x4pfUqv2df1SLmHVLMWx5Uav9ew.jpg" group-title="Movies",Patang (2025) (720p)
+https://panguott.panguplay.workers.dev/play/95979
+#EXTINF:-1 tvg-id="patang-2025_1080p" tvg-name="Patang (2025) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x4pfUqv2df1SLmHVLMWx5Uav9ew.jpg" group-title="Movies",Patang (2025) (1080p)
+https://panguott.panguplay.workers.dev/play/95973
+
+#EXTINF:-1 tvg-id="45-2025_720p" tvg-name="45 (2025) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/luDTygZ6uAwaknc2isXZcz8YMvE.jpg" group-title="Movies",45 (2025) (720p)
+https://panguott.panguplay.workers.dev/play/95990
+#EXTINF:-1 tvg-id="45-2025_1080p" tvg-name="45 (2025) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/luDTygZ6uAwaknc2isXZcz8YMvE.jpg" group-title="Movies",45 (2025) (1080p)
+https://panguott.panguplay.workers.dev/play/95987
+
+#EXTINF:-1 tvg-id="gurram-paapi-reddy-2025_720p" tvg-name="Gurram Paapi Reddy (2025) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fo7TpR3Pyfxl7DjT3VlvMFgFeOd.jpg" group-title="Movies",Gurram Paapi Reddy (2025) (720p)
+https://panguott.panguplay.workers.dev/play/96000
+#EXTINF:-1 tvg-id="gurram-paapi-reddy-2025_1080p" tvg-name="Gurram Paapi Reddy (2025) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fo7TpR3Pyfxl7DjT3VlvMFgFeOd.jpg" group-title="Movies",Gurram Paapi Reddy (2025) (1080p)
+https://panguott.panguplay.workers.dev/play/95996
+
+#EXTINF:-1 tvg-id="gandhi-talks-2026_720p" tvg-name="Gandhi Talks (2026) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p4iQT3s97T3gQOLhTj0UplzYMOj.jpg" group-title="Movies",Gandhi Talks (2026) (720p)
+https://panguott.panguplay.workers.dev/play/96007
+#EXTINF:-1 tvg-id="gandhi-talks-2026_1080p" tvg-name="Gandhi Talks (2026) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p4iQT3s97T3gQOLhTj0UplzYMOj.jpg" group-title="Movies",Gandhi Talks (2026) (1080p)
+https://panguott.panguplay.workers.dev/play/96009
+
 #EXTINF:-1 tvg-id="vinaipayan-2026_720p" tvg-name="Vinaipayan (2026) (720p)" tvg-logo="https://moviesda16.com/uploads/posters/vinaipayan-2026.webp" group-title="Movies",Vinaipayan (2026) (720p)
 https://panguott.panguplay.workers.dev/play/95696
 #EXTINF:-1 tvg-id="vinaipayan-2026_1080p" tvg-name="Vinaipayan (2026) (1080p)" tvg-logo="https://moviesda16.com/uploads/posters/vinaipayan-2026.webp" group-title="Movies",Vinaipayan (2026) (1080p)
