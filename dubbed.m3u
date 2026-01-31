@@ -1,5 +1,45 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="the-spongebob-squarepants-movie-2004_720p" tvg-name="The SpongeBob SquarePants Movie (2004) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1rvzKV1d18EbDVaEd4VDzK3cgnY.jpg" group-title="Movies",The SpongeBob SquarePants Movie (2004) (720p)
+https://panguott.panguplay.workers.dev/dub/108599
+#EXTINF:-1 tvg-id="the-spongebob-squarepants-movie-2004_1080p" tvg-name="The SpongeBob SquarePants Movie (2004) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1rvzKV1d18EbDVaEd4VDzK3cgnY.jpg" group-title="Movies",The SpongeBob SquarePants Movie (2004) (1080p)
+https://panguott.panguplay.workers.dev/dub/108595
+
+#EXTINF:-1 tvg-id="i-am-legend-2007_720p" tvg-name="I Am Legend (2007) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iPDkaSdKk2jRLTM65UOEoKtsIZ8.jpg" group-title="Movies",I Am Legend (2007) (720p)
+https://panguott.panguplay.workers.dev/dub/108613
+#EXTINF:-1 tvg-id="i-am-legend-2007_1080p" tvg-name="I Am Legend (2007) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iPDkaSdKk2jRLTM65UOEoKtsIZ8.jpg" group-title="Movies",I Am Legend (2007) (1080p)
+https://panguott.panguplay.workers.dev/dub/108609
+
+#EXTINF:-1 tvg-id="the-wrecking-crew-2026_720p" tvg-name="The Wrecking Crew (2026) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gbVwHl4YPSq6BcC92TQpe7qUTh6.jpg" group-title="Movies",The Wrecking Crew (2026) (720p)
+https://panguott.panguplay.workers.dev/dub/108665
+#EXTINF:-1 tvg-id="the-wrecking-crew-2026_1080p" tvg-name="The Wrecking Crew (2026) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gbVwHl4YPSq6BcC92TQpe7qUTh6.jpg" group-title="Movies",The Wrecking Crew (2026) (1080p)
+https://panguott.panguplay.workers.dev/dub/108661
+
+#EXTINF:-1 tvg-id="bullet-train-down-2022_720p" tvg-name="Bullet Train Down (2022) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zqAd0zsic4XIkWFRV7mn09dK1jP.jpg" group-title="Movies",Bullet Train Down (2022) (720p)
+https://panguott.panguplay.workers.dev/dub/108673
+#EXTINF:-1 tvg-id="bullet-train-down-2022_1080p" tvg-name="Bullet Train Down (2022) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zqAd0zsic4XIkWFRV7mn09dK1jP.jpg" group-title="Movies",Bullet Train Down (2022) (1080p)
+https://panguott.panguplay.workers.dev/dub/108669
+
+#EXTINF:-1 tvg-id="anaconda-2025_720p" tvg-name="Anaconda (2025) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5MDnvvkOqthhE5gQebzkcOhD1p5.jpg" group-title="Movies",Anaconda (2025) (720p)
+https://panguott.panguplay.workers.dev/dub/108680
+#EXTINF:-1 tvg-id="anaconda-2025_1080p" tvg-name="Anaconda (2025) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5MDnvvkOqthhE5gQebzkcOhD1p5.jpg" group-title="Movies",Anaconda (2025) (1080p)
+https://panguott.panguplay.workers.dev/dub/108676
+
+#EXTINF:-1 tvg-id="coriolanus-2011_720p" tvg-name="Coriolanus (2011) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6W6In8IUJMkxB8aBipulho6QLDd.jpg" group-title="Movies",Coriolanus (2011) (720p)
+https://panguott.panguplay.workers.dev/dub/108694
+#EXTINF:-1 tvg-id="coriolanus-2011_1080p" tvg-name="Coriolanus (2011) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6W6In8IUJMkxB8aBipulho6QLDd.jpg" group-title="Movies",Coriolanus (2011) (1080p)
+https://panguott.panguplay.workers.dev/dub/108690
+
+#EXTINF:-1 tvg-id="pets-on-a-train-2025_720p" tvg-name="Pets on a Train (2025) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b10qy1KwrfmH0MGS2rBUJ0BxgYB.jpg" group-title="Movies",Pets on a Train (2025) (720p)
+https://panguott.panguplay.workers.dev/dub/108702
+#EXTINF:-1 tvg-id="pets-on-a-train-2025_1080p" tvg-name="Pets on a Train (2025) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b10qy1KwrfmH0MGS2rBUJ0BxgYB.jpg" group-title="Movies",Pets on a Train (2025) (1080p)
+https://panguott.panguplay.workers.dev/dub/108698
+
+#EXTINF:-1 tvg-id="rabbit-trap-2025_720p" tvg-name="Rabbit Trap (2025) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sKnwnnmBpjo9BEskHtja6ToXUV1.jpg" group-title="Movies",Rabbit Trap (2025) (720p)
+https://panguott.panguplay.workers.dev/dub/108710
+#EXTINF:-1 tvg-id="rabbit-trap-2025_1080p" tvg-name="Rabbit Trap (2025) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sKnwnnmBpjo9BEskHtja6ToXUV1.jpg" group-title="Movies",Rabbit Trap (2025) (1080p)
+https://panguott.panguplay.workers.dev/dub/108706
+
 #EXTINF:-1 tvg-id="splitsville-2025_720p" tvg-name="Splitsville (2025) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gxCv6kUdywxYzIXX6xYcmX5APUV.jpg" group-title="Movies",Splitsville (2025) (720p)
 https://panguott.panguplay.workers.dev/dub/103779
 #EXTINF:-1 tvg-id="splitsville-2025_1080p" tvg-name="Splitsville (2025) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gxCv6kUdywxYzIXX6xYcmX5APUV.jpg" group-title="Movies",Splitsville (2025) (1080p)
