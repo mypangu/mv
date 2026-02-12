@@ -1,5 +1,35 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="once-upon-a-time-in-deadwood-2019_720p" tvg-name="Once Upon a Time in Deadwood (2019) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/meiO1ubAPBcHouNSSBisTThd27p.jpg" group-title="Movies",Once Upon a Time in Deadwood (2019) (720p)
+https://panguott.panguplay.workers.dev/dub/108819
+#EXTINF:-1 tvg-id="once-upon-a-time-in-deadwood-2019_1080p" tvg-name="Once Upon a Time in Deadwood (2019) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/meiO1ubAPBcHouNSSBisTThd27p.jpg" group-title="Movies",Once Upon a Time in Deadwood (2019) (1080p)
+https://panguott.panguplay.workers.dev/dub/108815
+
+#EXTINF:-1 tvg-id="the-battle-between-chefs-2018_720p" tvg-name="The Battle Between Chefs (2018) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ltYN2EF31kuVL1jnXwnwgYXNiVy.jpg" group-title="Movies",The Battle Between Chefs (2018) (720p)
+https://panguott.panguplay.workers.dev/dub/108857
+#EXTINF:-1 tvg-id="the-battle-between-chefs-2018_1080p" tvg-name="The Battle Between Chefs (2018) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ltYN2EF31kuVL1jnXwnwgYXNiVy.jpg" group-title="Movies",The Battle Between Chefs (2018) (1080p)
+https://panguott.panguplay.workers.dev/dub/108853
+
+#EXTINF:-1 tvg-id="all-i-need-2016_720p" tvg-name="All I Need (2016) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/khAn5Y4pW4W2TAYwEKFmtusLs2k.jpg" group-title="Movies",All I Need (2016) (720p)
+https://panguott.panguplay.workers.dev/dub/108834
+#EXTINF:-1 tvg-id="all-i-need-2016_1080p" tvg-name="All I Need (2016) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/khAn5Y4pW4W2TAYwEKFmtusLs2k.jpg" group-title="Movies",All I Need (2016) (1080p)
+https://panguott.panguplay.workers.dev/dub/108830
+
+#EXTINF:-1 tvg-id="sweatshop-2009_720p" tvg-name="Sweatshop (2009) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3PUoSJh7ien2YAT3CzpPElw0kEX.jpg" group-title="Movies",Sweatshop (2009) (720p)
+https://panguott.panguplay.workers.dev/dub/108844
+#EXTINF:-1 tvg-id="sweatshop-2009_1080p" tvg-name="Sweatshop (2009) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3PUoSJh7ien2YAT3CzpPElw0kEX.jpg" group-title="Movies",Sweatshop (2009) (1080p)
+https://panguott.panguplay.workers.dev/dub/108840
+
+#EXTINF:-1 tvg-id="decoys-2-alien-seduction-2007_720p" tvg-name="Decoys 2 Alien Seduction (2007) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/29ntxtmUwcA8RPVdEHStsaqrLGq.jpg" group-title="Movies",Decoys 2 Alien Seduction (2007) (720p)
+https://panguott.panguplay.workers.dev/dub/108811
+#EXTINF:-1 tvg-id="decoys-2-alien-seduction-2007_1080p" tvg-name="Decoys 2 Alien Seduction (2007) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/29ntxtmUwcA8RPVdEHStsaqrLGq.jpg" group-title="Movies",Decoys 2 Alien Seduction (2007) (1080p)
+https://panguott.panguplay.workers.dev/dub/108807
+
+#EXTINF:-1 tvg-id="luther-2003_720p" tvg-name="Luther (2003) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Z3wlA8sKdd3tPTZW8N1q3YEd5f.jpg" group-title="Movies",Luther (2003) (720p)
+https://panguott.panguplay.workers.dev/dub/108826
+#EXTINF:-1 tvg-id="luther-2003_1080p" tvg-name="Luther (2003) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Z3wlA8sKdd3tPTZW8N1q3YEd5f.jpg" group-title="Movies",Luther (2003) (1080p)
+https://panguott.panguplay.workers.dev/dub/108822
+
 #EXTINF:-1 tvg-id="even-if-this-love-disappears-tonight-2026_720p" tvg-name="Even if This Love Disappears Tonight (2026) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5eNN8KLDPUXDqIkTdCbmn1gx5P7.jpg" group-title="Movies",Even if This Love Disappears Tonight (2026) (720p)
 https://panguott.panguplay.workers.dev/dub/108730
 #EXTINF:-1 tvg-id="even-if-this-love-disappears-tonight-2026_1080p" tvg-name="Even if This Love Disappears Tonight (2026) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5eNN8KLDPUXDqIkTdCbmn1gx5P7.jpg" group-title="Movies",Even if This Love Disappears Tonight (2026) (1080p)
