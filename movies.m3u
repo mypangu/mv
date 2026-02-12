@@ -1,5 +1,80 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="karikaada-2026_720p" tvg-name="Karikaada (2026) (720p)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGZiOTJmZTgtM2UwNi00OGMzLWExN2MtZWViMDlhMjliZDE3XkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg" group-title="Movies",Karikaada (2026) (720p)
+https://panguott.panguplay.workers.dev/play/96275
+#EXTINF:-1 tvg-id="karikaada-2026_1080p" tvg-name="Karikaada (2026) (1080p)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGZiOTJmZTgtM2UwNi00OGMzLWExN2MtZWViMDlhMjliZDE3XkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg" group-title="Movies",Karikaada (2026) (1080p)
+https://panguott.panguplay.workers.dev/play/96286
+
+#EXTINF:-1 tvg-id="kadhal-kadhai-sollava-2026_720p" tvg-name="Kadhal Kadhai Sollava (2026) (720p)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjc3MTgxOWQtNWU2Mi00MjZkLWI4NjItZTMwNzM4ODdiYTE3XkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg" group-title="Movies",Kadhal Kadhai Sollava (2026) (720p)
+https://panguott.panguplay.workers.dev/play/96300
+#EXTINF:-1 tvg-id="kadhal-kadhai-sollava-2026_1080p" tvg-name="Kadhal Kadhai Sollava (2026) (1080p)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjc3MTgxOWQtNWU2Mi00MjZkLWI4NjItZTMwNzM4ODdiYTE3XkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg" group-title="Movies",Kadhal Kadhai Sollava (2026) (1080p)
+https://panguott.panguplay.workers.dev/play/96304
+
+#EXTINF:-1 tvg-id="yogida-2026_720p" tvg-name="Yogida (2026) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ccfprLLGJfkwcVkrie3PYdyCd2v.jpg" group-title="Movies",Yogida (2026) (720p)
+https://panguott.panguplay.workers.dev/play/96293
+#EXTINF:-1 tvg-id="yogida-2026_1080p" tvg-name="Yogida (2026) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ccfprLLGJfkwcVkrie3PYdyCd2v.jpg" group-title="Movies",Yogida (2026) (1080p)
+https://panguott.panguplay.workers.dev/play/96303
+
+#EXTINF:-1 tvg-id="with-love-2026_720p" tvg-name="With Love (2026) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kiZPb9yH319UvtVOuw7tB3JmRbL.jpg" group-title="Movies",With Love (2026) (720p)
+https://panguott.panguplay.workers.dev/play/96244
+#EXTINF:-1 tvg-id="with-love-2026_1080p" tvg-name="With Love (2026) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kiZPb9yH319UvtVOuw7tB3JmRbL.jpg" group-title="Movies",With Love (2026) (1080p)
+https://panguott.panguplay.workers.dev/play/96268
+
+#EXTINF:-1 tvg-id="red-label-2026_720p" tvg-name="Red Label (2026) (720p)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzFhZTQxN2UtNGNhNC00YTNiLTljZDQtZGFmNjYyZjlkOGIyXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg" group-title="Movies",Red Label (2026) (720p)
+https://panguott.panguplay.workers.dev/play/96282
+#EXTINF:-1 tvg-id="red-label-2026_1080p" tvg-name="Red Label (2026) (1080p)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzFhZTQxN2UtNGNhNC00YTNiLTljZDQtZGFmNjYyZjlkOGIyXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg" group-title="Movies",Red Label (2026) (1080p)
+https://panguott.panguplay.workers.dev/play/96284
+
+#EXTINF:-1 tvg-id="parasakthi-2026_720p" tvg-name="Parasakthi (2026) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cpKJGYU8Z1iSXzkgDl8vhazk5EQ.jpg" group-title="Movies",Parasakthi (2026) (720p)
+https://panguott.panguplay.workers.dev/play/96250
+#EXTINF:-1 tvg-id="parasakthi-2026_1080p" tvg-name="Parasakthi (2026) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cpKJGYU8Z1iSXzkgDl8vhazk5EQ.jpg" group-title="Movies",Parasakthi (2026) (1080p)
+https://panguott.panguplay.workers.dev/play/96263
+
+#EXTINF:-1 tvg-id="anaganaga-oka-raju-2026_720p" tvg-name="Anaganaga Oka Raju (2026) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1EMPFJPNA0srjlWrudxjDqdlFFq.jpg" group-title="Movies",Anaganaga Oka Raju (2026) (720p)
+https://panguott.panguplay.workers.dev/play/96350
+#EXTINF:-1 tvg-id="anaganaga-oka-raju-2026_1080p" tvg-name="Anaganaga Oka Raju (2026) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1EMPFJPNA0srjlWrudxjDqdlFFq.jpg" group-title="Movies",Anaganaga Oka Raju (2026) (1080p)
+https://panguott.panguplay.workers.dev/play/96344
+
+#EXTINF:-1 tvg-id="mana-shankara-vara-prasad-garu-2026_720p" tvg-name="Mana Shankara Vara Prasad Garu (2026) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sfj6SLSzbzHN2633HcqabHFJz5y.jpg" group-title="Movies",Mana Shankara Vara Prasad Garu (2026) (720p)
+https://panguott.panguplay.workers.dev/play/96357
+#EXTINF:-1 tvg-id="mana-shankara-vara-prasad-garu-2026_1080p" tvg-name="Mana Shankara Vara Prasad Garu (2026) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sfj6SLSzbzHN2633HcqabHFJz5y.jpg" group-title="Movies",Mana Shankara Vara Prasad Garu (2026) (1080p)
+https://panguott.panguplay.workers.dev/play/96360
+
+#EXTINF:-1 tvg-id="thalaivar-thambi-thalaimaiyil-2026_720p" tvg-name="Thalaivar Thambi Thalaimaiyil (2026) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wqofJvDrFv65QgyVmNI4loi9jZZ.jpg" group-title="Movies",Thalaivar Thambi Thalaimaiyil (2026) (720p)
+https://panguott.panguplay.workers.dev/play/96374
+#EXTINF:-1 tvg-id="thalaivar-thambi-thalaimaiyil-2026_1080p" tvg-name="Thalaivar Thambi Thalaimaiyil (2026) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wqofJvDrFv65QgyVmNI4loi9jZZ.jpg" group-title="Movies",Thalaivar Thambi Thalaimaiyil (2026) (1080p)
+https://panguott.panguplay.workers.dev/play/96376
+
+#EXTINF:-1 tvg-id="ipl-indian-penal-law-2025_720p" tvg-name="IPL Indian Penal Law (2025) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vXNuxvpzCkw22wnO9Uvjn7KmV1I.jpg" group-title="Movies",IPL Indian Penal Law (2025) (720p)
+https://panguott.panguplay.workers.dev/play/96256
+#EXTINF:-1 tvg-id="ipl-indian-penal-law-2025_1080p" tvg-name="IPL Indian Penal Law (2025) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vXNuxvpzCkw22wnO9Uvjn7KmV1I.jpg" group-title="Movies",IPL Indian Penal Law (2025) (1080p)
+https://panguott.panguplay.workers.dev/play/96262
+
+#EXTINF:-1 tvg-id="ellam-avan-seyal-2008_720p" tvg-name="Ellam Avan Seyal (2008) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/buu3DhMEa5lS6wRiWSDygsGOthV.jpg" group-title="Movies",Ellam Avan Seyal (2008) (720p)
+https://panguott.panguplay.workers.dev/play/96315
+#EXTINF:-1 tvg-id="ellam-avan-seyal-2008_1080p" tvg-name="Ellam Avan Seyal (2008) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/buu3DhMEa5lS6wRiWSDygsGOthV.jpg" group-title="Movies",Ellam Avan Seyal (2008) (1080p)
+https://panguott.panguplay.workers.dev/play/96312
+
+#EXTINF:-1 tvg-id="attahasam-2004_720p" tvg-name="Attahasam (2004) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yrG9GWyTz2EYXko1leZSEqNnZdf.jpg" group-title="Movies",Attahasam (2004) (720p)
+https://panguott.panguplay.workers.dev/play/96234
+#EXTINF:-1 tvg-id="attahasam-2004_1080p" tvg-name="Attahasam (2004) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yrG9GWyTz2EYXko1leZSEqNnZdf.jpg" group-title="Movies",Attahasam (2004) (1080p)
+https://panguott.panguplay.workers.dev/play/96237
+
+#EXTINF:-1 tvg-id="mounam-pesiyadhe-2002_720p" tvg-name="Mounam Pesiyadhe (2002) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nvgnteJqmaxIyyaJrZuoRhYi5kb.jpg" group-title="Movies",Mounam Pesiyadhe (2002) (720p)
+https://panguott.panguplay.workers.dev/play/96309
+#EXTINF:-1 tvg-id="mounam-pesiyadhe-2002_1080p" tvg-name="Mounam Pesiyadhe (2002) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nvgnteJqmaxIyyaJrZuoRhYi5kb.jpg" group-title="Movies",Mounam Pesiyadhe (2002) (1080p)
+https://panguott.panguplay.workers.dev/play/96307
+
+#EXTINF:-1 tvg-id="minnale-2001_720p" tvg-name="Minnale (2001) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ipbcKx42WLD77mQdSGkHrf8LUuH.jpg" group-title="Movies",Minnale (2001) (720p)
+https://panguott.panguplay.workers.dev/play/96339
+#EXTINF:-1 tvg-id="minnale-2001_1080p" tvg-name="Minnale (2001) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ipbcKx42WLD77mQdSGkHrf8LUuH.jpg" group-title="Movies",Minnale (2001) (1080p)
+https://panguott.panguplay.workers.dev/play/96340
+
+#EXTINF:-1 tvg-id="12b-2001_720p" tvg-name="12B (2001) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/75Pq4aabWWQo2T3X2Zb9ifOWAxn.jpg" group-title="Movies",12B (2001) (720p)
+https://panguott.panguplay.workers.dev/play/96387
+#EXTINF:-1 tvg-id="12b-2001_1080p" tvg-name="12B (2001) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/75Pq4aabWWQo2T3X2Zb9ifOWAxn.jpg" group-title="Movies",12B (2001) (1080p)
+https://panguott.panguplay.workers.dev/play/96384
+
 #EXTINF:-1 tvg-id="mellisai-2026_720p" tvg-name="Mellisai (2026) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tkXbSUHh9XhEwUQkSiCZxUfbtYm.jpg" group-title="Movies",Mellisai (2026) (720p)
 https://panguott.panguplay.workers.dev/play/96111
 #EXTINF:-1 tvg-id="mellisai-2026_1080p" tvg-name="Mellisai (2026) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tkXbSUHh9XhEwUQkSiCZxUfbtYm.jpg" group-title="Movies",Mellisai (2026) (1080p)
@@ -333,11 +408,6 @@ https://panguott.panguplay.workers.dev/play/95664
 https://panguott.panguplay.workers.dev/play/95523
 #EXTINF:-1 tvg-id="vaa-vaathiyaar-2026_1080p" tvg-name="Vaa Vaathiyaar (2026) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2CO8y3nlDcPRHqXuOQarl8X9GZT.jpg" group-title="Movies",Vaa Vaathiyaar (2026) (1080p)
 https://panguott.panguplay.workers.dev/play/95525
-
-#EXTINF:-1 tvg-id="parasakthi-2026_720p" tvg-name="Parasakthi (2026) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cpKJGYU8Z1iSXzkgDl8vhazk5EQ.jpg" group-title="Movies",Parasakthi (2026) (720p)
-https://panguott.panguplay.workers.dev/play/95486
-#EXTINF:-1 tvg-id="parasakthi-2026_1080p" tvg-name="Parasakthi (2026) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cpKJGYU8Z1iSXzkgDl8vhazk5EQ.jpg" group-title="Movies",Parasakthi (2026) (1080p)
-https://panguott.panguplay.workers.dev/play/95481
 
 #EXTINF:-1 tvg-id="anantha-2026_720p" tvg-name="Anantha (2026) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y1GAbomStmF8dnvrsYzUGiqBFy4.jpg" group-title="Movies",Anantha (2026) (720p)
 https://panguott.panguplay.workers.dev/play/95497
