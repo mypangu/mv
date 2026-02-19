@@ -1,5 +1,55 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="bone-lake-2024_720p" tvg-name="Bone Lake (2024) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sGo5ti82LlydAZrvcsaj31iPuEI.jpg" group-title="Movies",Bone Lake (2024) (720p)
+https://panguott.panguplay.workers.dev/dub/108865
+#EXTINF:-1 tvg-id="bone-lake-2024_1080p" tvg-name="Bone Lake (2024) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sGo5ti82LlydAZrvcsaj31iPuEI.jpg" group-title="Movies",Bone Lake (2024) (1080p)
+https://panguott.panguplay.workers.dev/dub/108861
+
+#EXTINF:-1 tvg-id="predator-badlands-2025_720p" tvg-name="Predator Badlands (2025) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ef2QSeBkrYhAdfsWGXmp0lvH0T1.jpg" group-title="Movies",Predator Badlands (2025) (720p)
+https://panguott.panguplay.workers.dev/dub/108872
+#EXTINF:-1 tvg-id="predator-badlands-2025_1080p" tvg-name="Predator Badlands (2025) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ef2QSeBkrYhAdfsWGXmp0lvH0T1.jpg" group-title="Movies",Predator Badlands (2025) (1080p)
+https://panguott.panguplay.workers.dev/dub/108868
+
+#EXTINF:-1 tvg-id="joes-college-road-trip-2026_720p" tvg-name="Joes College Road Trip (2026) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jWGOCUlzF4aCVLwHoiuqWWfhcrA.jpg" group-title="Movies",Joes College Road Trip (2026) (720p)
+https://panguott.panguplay.workers.dev/dub/108881
+#EXTINF:-1 tvg-id="joes-college-road-trip-2026_1080p" tvg-name="Joes College Road Trip (2026) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jWGOCUlzF4aCVLwHoiuqWWfhcrA.jpg" group-title="Movies",Joes College Road Trip (2026) (1080p)
+https://panguott.panguplay.workers.dev/dub/108877
+
+#EXTINF:-1 tvg-id="love-me-love-me-2026_720p" tvg-name="Love Me Love Me (2026) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xmoO861IKm1ycJ52mLGc3nwINKV.jpg" group-title="Movies",Love Me Love Me (2026) (720p)
+https://panguott.panguplay.workers.dev/dub/108889
+#EXTINF:-1 tvg-id="love-me-love-me-2026_1080p" tvg-name="Love Me Love Me (2026) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xmoO861IKm1ycJ52mLGc3nwINKV.jpg" group-title="Movies",Love Me Love Me (2026) (1080p)
+https://panguott.panguplay.workers.dev/dub/108885
+
+#EXTINF:-1 tvg-id="camino-2015_720p" tvg-name="Camino (2015) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4DOzp5Rx8roC9YvvDgmoZAGeiGF.jpg" group-title="Movies",Camino (2015) (720p)
+https://panguott.panguplay.workers.dev/dub/108915
+#EXTINF:-1 tvg-id="camino-2015_1080p" tvg-name="Camino (2015) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4DOzp5Rx8roC9YvvDgmoZAGeiGF.jpg" group-title="Movies",Camino (2015) (1080p)
+https://panguott.panguplay.workers.dev/dub/108911
+
+#EXTINF:-1 tvg-id="java-heat-2013_720p" tvg-name="Java Heat (2013) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3jQZRqGnqTlwomPZyGziTSSIy6H.jpg" group-title="Movies",Java Heat (2013) (720p)
+https://panguott.panguplay.workers.dev/dub/108921
+#EXTINF:-1 tvg-id="java-heat-2013_1080p" tvg-name="Java Heat (2013) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3jQZRqGnqTlwomPZyGziTSSIy6H.jpg" group-title="Movies",Java Heat (2013) (1080p)
+https://panguott.panguplay.workers.dev/dub/108923
+
+#EXTINF:-1 tvg-id="impulse-2008_720p" tvg-name="Impulse (2008) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jTmQjGVifyNgZ2btubwMcdI5JJ7.jpg" group-title="Movies",Impulse (2008) (720p)
+https://panguott.panguplay.workers.dev/dub/108932
+#EXTINF:-1 tvg-id="impulse-2008_1080p" tvg-name="Impulse (2008) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jTmQjGVifyNgZ2btubwMcdI5JJ7.jpg" group-title="Movies",Impulse (2008) (1080p)
+https://panguott.panguplay.workers.dev/dub/108928
+
+#EXTINF:-1 tvg-id="mercy-2026_720p" tvg-name="Mercy (2026) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pyok1kZJCfyuFapYXzHcy7BLlQa.jpg" group-title="Movies",Mercy (2026) (720p)
+https://panguott.panguplay.workers.dev/dub/108940
+#EXTINF:-1 tvg-id="mercy-2026_1080p" tvg-name="Mercy (2026) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pyok1kZJCfyuFapYXzHcy7BLlQa.jpg" group-title="Movies",Mercy (2026) (1080p)
+https://panguott.panguplay.workers.dev/dub/108936
+
+#EXTINF:-1 tvg-id="return-to-savage-beach-1998_720p" tvg-name="Return to Savage Beach (1998) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/npdoxONT7hHRThjzIS4XYjYoSOB.jpg" group-title="Movies",Return to Savage Beach (1998) (720p)
+https://panguott.panguplay.workers.dev/dub/108948
+#EXTINF:-1 tvg-id="return-to-savage-beach-1998_1080p" tvg-name="Return to Savage Beach (1998) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/npdoxONT7hHRThjzIS4XYjYoSOB.jpg" group-title="Movies",Return to Savage Beach (1998) (1080p)
+https://panguott.panguplay.workers.dev/dub/108944
+
+#EXTINF:-1 tvg-id="the-dogs-2025_720p" tvg-name="The Dogs (2025) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kz6oqKyKCjmR8V1JdnF9brp9DSn.jpg" group-title="Movies",The Dogs (2025) (720p)
+https://panguott.panguplay.workers.dev/dub/108957
+#EXTINF:-1 tvg-id="the-dogs-2025_1080p" tvg-name="The Dogs (2025) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kz6oqKyKCjmR8V1JdnF9brp9DSn.jpg" group-title="Movies",The Dogs (2025) (1080p)
+https://panguott.panguplay.workers.dev/dub/108953
+
 #EXTINF:-1 tvg-id="once-upon-a-time-in-deadwood-2019_720p" tvg-name="Once Upon a Time in Deadwood (2019) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/meiO1ubAPBcHouNSSBisTThd27p.jpg" group-title="Movies",Once Upon a Time in Deadwood (2019) (720p)
 https://panguott.panguplay.workers.dev/dub/108819
 #EXTINF:-1 tvg-id="once-upon-a-time-in-deadwood-2019_1080p" tvg-name="Once Upon a Time in Deadwood (2019) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/meiO1ubAPBcHouNSSBisTThd27p.jpg" group-title="Movies",Once Upon a Time in Deadwood (2019) (1080p)
