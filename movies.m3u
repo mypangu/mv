@@ -1,5 +1,68 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="velaikkaran-1987_720p" tvg-name="Velaikkaran (1987) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2M7A9tVLcC19OQKlNCdSVV3mQns.jpg" group-title="Movies",Velaikkaran (1987) (720p)
+https://panguott.panguplay.workers.dev/play/96805
+#EXTINF:-1 tvg-id="velaikkaran-1987_1080p" tvg-name="Velaikkaran (1987) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2M7A9tVLcC19OQKlNCdSVV3mQns.jpg" group-title="Movies",Velaikkaran (1987) (1080p)
+https://panguott.panguplay.workers.dev/play/96800
+
+#EXTINF:-1 tvg-id="middle-class-madhavan-2001_720p" tvg-name="Middle Class Madhavan (2001) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vnqyQBnxBLyAMmPQirWGICQv9oh.jpg" group-title="Movies",Middle Class Madhavan (2001) (720p)
+https://panguott.panguplay.workers.dev/play/96795
+#EXTINF:-1 tvg-id="middle-class-madhavan-2001_1080p" tvg-name="Middle Class Madhavan (2001) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vnqyQBnxBLyAMmPQirWGICQv9oh.jpg" group-title="Movies",Middle Class Madhavan (2001) (1080p)
+https://panguott.panguplay.workers.dev/play/96790
+
+#EXTINF:-1 tvg-id="muthu-1995_720p" tvg-name="Muthu (1995) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6tL4ujxvyY6Csxv5sKt0fDsCzf3.jpg" group-title="Movies",Muthu (1995) (720p)
+https://panguott.panguplay.workers.dev/play/96785
+#EXTINF:-1 tvg-id="muthu-1995_1080p" tvg-name="Muthu (1995) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6tL4ujxvyY6Csxv5sKt0fDsCzf3.jpg" group-title="Movies",Muthu (1995) (1080p)
+https://panguott.panguplay.workers.dev/play/96780
+
+#EXTINF:-1 tvg-id="ezhumalai-2002_720p" tvg-name="Ezhumalai (2002) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1kyYeIK365W69kmpgAsgXiQ36b0.jpg" group-title="Movies",Ezhumalai (2002) (720p)
+https://panguott.panguplay.workers.dev/play/96775
+#EXTINF:-1 tvg-id="ezhumalai-2002_1080p" tvg-name="Ezhumalai (2002) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1kyYeIK365W69kmpgAsgXiQ36b0.jpg" group-title="Movies",Ezhumalai (2002) (1080p)
+https://panguott.panguplay.workers.dev/play/96770
+
+#EXTINF:-1 tvg-id="hero-friend-u-2025_720p" tvg-name="Hero Friend U (2025) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rRfSwkSZwUTJIjDWF8aHQVshm5Y.jpg" group-title="Movies",Hero Friend U (2025) (720p)
+https://panguott.panguplay.workers.dev/play/96765
+#EXTINF:-1 tvg-id="hero-friend-u-2025_1080p" tvg-name="Hero Friend U (2025) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rRfSwkSZwUTJIjDWF8aHQVshm5Y.jpg" group-title="Movies",Hero Friend U (2025) (1080p)
+https://panguott.panguplay.workers.dev/play/96760
+
+#EXTINF:-1 tvg-id="guardian-2021" tvg-name="Guardian (2021) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rzcyZbBhvhu2GiX5M9RzMC7PQgo.jpg" group-title="Movies",Guardian (2021) (720p)
+https://panguott.panguplay.workers.dev/play/96754
+
+#EXTINF:-1 tvg-id="my-dear-dolly-2026_720p" tvg-name="My Dear Dolly (2026) (720p)" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzQ0YTE0YmEtNjJmZC00OTUzLTlhOTUtMjhmMjZlYjU1YzQ0XkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg" group-title="Movies",My Dear Dolly (2026) (720p)
+https://panguott.panguplay.workers.dev/play/96744
+#EXTINF:-1 tvg-id="my-dear-dolly-2026_1080p" tvg-name="My Dear Dolly (2026) (1080p)" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzQ0YTE0YmEtNjJmZC00OTUzLTlhOTUtMjhmMjZlYjU1YzQ0XkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg" group-title="Movies",My Dear Dolly (2026) (1080p)
+https://panguott.panguplay.workers.dev/play/96746
+
+#EXTINF:-1 tvg-id="thunivu-2023_720p" tvg-name="Thunivu (2023) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Cdi9MFxEGsfphvDxV4TyY4znP6.jpg" group-title="Movies",Thunivu (2023) (720p)
+https://panguott.panguplay.workers.dev/play/96734
+#EXTINF:-1 tvg-id="thunivu-2023_1080p" tvg-name="Thunivu (2023) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Cdi9MFxEGsfphvDxV4TyY4znP6.jpg" group-title="Movies",Thunivu (2023) (1080p)
+https://panguott.panguplay.workers.dev/play/96731
+
+#EXTINF:-1 tvg-id="em-magan-2006_720p" tvg-name="Em Magan (2006) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Anx8xtLTXpbILl5NF0xW3ueJ5Re.jpg" group-title="Movies",Em Magan (2006) (720p)
+https://panguott.panguplay.workers.dev/play/96714
+#EXTINF:-1 tvg-id="em-magan-2006_1080p" tvg-name="Em Magan (2006) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Anx8xtLTXpbILl5NF0xW3ueJ5Re.jpg" group-title="Movies",Em Magan (2006) (1080p)
+https://panguott.panguplay.workers.dev/play/96711
+
+#EXTINF:-1 tvg-id="ondimuniyum-nallapadanum-2026_720p" tvg-name="Ondimuniyum Nallapadanum (2026) (720p)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTU0ZDIxZGYtMDI1YS00ZDhiLWI4NDUtY2FmMTkxYjY2OTc2XkEyXkFqcGc@._V1_QL75_UX380_CR0,35,380,562_.jpg" group-title="Movies",Ondimuniyum Nallapadanum (2026) (720p)
+https://panguott.panguplay.workers.dev/play/96699
+#EXTINF:-1 tvg-id="ondimuniyum-nallapadanum-2026_1080p" tvg-name="Ondimuniyum Nallapadanum (2026) (1080p)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTU0ZDIxZGYtMDI1YS00ZDhiLWI4NDUtY2FmMTkxYjY2OTc2XkEyXkFqcGc@._V1_QL75_UX380_CR0,35,380,562_.jpg" group-title="Movies",Ondimuniyum Nallapadanum (2026) (1080p)
+https://panguott.panguplay.workers.dev/play/96707
+
+#EXTINF:-1 tvg-id="lucky-the-superstar-2026_720p" tvg-name="Lucky the Superstar (2026) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fb5ao0wON2Dq3atOy3rikyL8IsP.jpg" group-title="Movies",Lucky the Superstar (2026) (720p)
+https://panguott.panguplay.workers.dev/play/96693
+#EXTINF:-1 tvg-id="lucky-the-superstar-2026_1080p" tvg-name="Lucky the Superstar (2026) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fb5ao0wON2Dq3atOy3rikyL8IsP.jpg" group-title="Movies",Lucky the Superstar (2026) (1080p)
+https://panguott.panguplay.workers.dev/play/96688
+
+#EXTINF:-1 tvg-id="hot-spot-2-much-2026_720p" tvg-name="Hot Spot 2 Much (2026) (720p)" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjA4MTQxZjUtMDI2NC00ZWE1LWFiMzAtYTIwYTA5ZTYyMjgzXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg" group-title="Movies",Hot Spot 2 Much (2026) (720p)
+https://panguott.panguplay.workers.dev/play/96682
+#EXTINF:-1 tvg-id="hot-spot-2-much-2026_1080p" tvg-name="Hot Spot 2 Much (2026) (1080p)" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjA4MTQxZjUtMDI2NC00ZWE1LWFiMzAtYTIwYTA5ZTYyMjgzXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg" group-title="Movies",Hot Spot 2 Much (2026) (1080p)
+https://panguott.panguplay.workers.dev/play/96677
+
+#EXTINF:-1 tvg-id="sri-kanchi-kamatchi-1978_720p" tvg-name="Sri Kanchi Kamatchi (1978) (720p)" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjIyMTg3OTgtYTI2Zi00MjExLWJlNWQtMjcwODE5YzkzM2Q5XkEyXkFqcGc@._V1_QL75_UY562_CR21,0,380,562_.jpg" group-title="Movies",Sri Kanchi Kamatchi (1978) (720p)
+https://panguott.panguplay.workers.dev/play/96671
+#EXTINF:-1 tvg-id="sri-kanchi-kamatchi-1978_1080p" tvg-name="Sri Kanchi Kamatchi (1978) (1080p)" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjIyMTg3OTgtYTI2Zi00MjExLWJlNWQtMjcwODE5YzkzM2Q5XkEyXkFqcGc@._V1_QL75_UY562_CR21,0,380,562_.jpg" group-title="Movies",Sri Kanchi Kamatchi (1978) (1080p)
+https://panguott.panguplay.workers.dev/play/96668
+
 #EXTINF:-1 tvg-id="i-am-god-2025_720p" tvg-name="I Am God (2025) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2fOSXmOiA9Fqt06ESJbFXsUGX3.jpg" group-title="Movies",I Am God (2025) (720p)
 https://panguott.panguplay.workers.dev/play/96409
 #EXTINF:-1 tvg-id="i-am-god-2025_1080p" tvg-name="I Am God (2025) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2fOSXmOiA9Fqt06ESJbFXsUGX3.jpg" group-title="Movies",I Am God (2025) (1080p)
