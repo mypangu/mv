@@ -1,5 +1,60 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="the-bluff-2026_720p" tvg-name="The Bluff (2026) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sojEzvfxR2DBcDSJyAisX8TWjov.jpg" group-title="Movies",The Bluff (2026) (720p)
+https://panguott.panguplay.workers.dev/dub/109081
+#EXTINF:-1 tvg-id="the-bluff-2026_1080p" tvg-name="The Bluff (2026) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sojEzvfxR2DBcDSJyAisX8TWjov.jpg" group-title="Movies",The Bluff (2026) (1080p)
+https://panguott.panguplay.workers.dev/dub/109077
+
+#EXTINF:-1 tvg-id="happiest-season-2020_720p" tvg-name="Happiest Season (2020) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vzec9kkOSE93tygyfOktedkeOQ.jpg" group-title="Movies",Happiest Season (2020) (720p)
+https://panguott.panguplay.workers.dev/dub/109072
+#EXTINF:-1 tvg-id="happiest-season-2020_1080p" tvg-name="Happiest Season (2020) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vzec9kkOSE93tygyfOktedkeOQ.jpg" group-title="Movies",Happiest Season (2020) (1080p)
+https://panguott.panguplay.workers.dev/dub/109068
+
+#EXTINF:-1 tvg-id="skyfall-2012_720p" tvg-name="Skyfall (2012) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0IVecFQvsGdSbnMAHqiYsNYaJT.jpg" group-title="Movies",Skyfall (2012) (720p)
+https://panguott.panguplay.workers.dev/dub/109064
+#EXTINF:-1 tvg-id="skyfall-2012_1080p" tvg-name="Skyfall (2012) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0IVecFQvsGdSbnMAHqiYsNYaJT.jpg" group-title="Movies",Skyfall (2012) (1080p)
+https://panguott.panguplay.workers.dev/dub/109060
+
+#EXTINF:-1 tvg-id="the-housemaid-2025_720p" tvg-name="The Housemaid (2025) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cWsBscZzwu5brg9YjNkGewRUvJX.jpg" group-title="Movies",The Housemaid (2025) (720p)
+https://panguott.panguplay.workers.dev/dub/109057
+#EXTINF:-1 tvg-id="the-housemaid-2025_1080p" tvg-name="The Housemaid (2025) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cWsBscZzwu5brg9YjNkGewRUvJX.jpg" group-title="Movies",The Housemaid (2025) (1080p)
+https://panguott.panguplay.workers.dev/dub/109053
+
+#EXTINF:-1 tvg-id="xeno-2025_720p" tvg-name="Xeno (2025) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bXJD04oDre4ZiW6CapzBuJyyp4w.jpg" group-title="Movies",Xeno (2025) (720p)
+https://panguott.panguplay.workers.dev/dub/109049
+#EXTINF:-1 tvg-id="xeno-2025_1080p" tvg-name="Xeno (2025) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bXJD04oDre4ZiW6CapzBuJyyp4w.jpg" group-title="Movies",Xeno (2025) (1080p)
+https://panguott.panguplay.workers.dev/dub/109045
+
+#EXTINF:-1 tvg-id="netherworld-1992_720p" tvg-name="Netherworld (1992) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hIGKGn5tA6yPZu5CR6nRXpljsUG.jpg" group-title="Movies",Netherworld (1992) (720p)
+https://panguott.panguplay.workers.dev/dub/109040
+#EXTINF:-1 tvg-id="netherworld-1992_1080p" tvg-name="Netherworld (1992) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hIGKGn5tA6yPZu5CR6nRXpljsUG.jpg" group-title="Movies",Netherworld (1992) (1080p)
+https://panguott.panguplay.workers.dev/dub/109036
+
+#EXTINF:-1 tvg-id="the-long-walk-2025_720p" tvg-name="The Long Walk (2025) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wobVTa99eW0ht6c1rNNzLkazPtR.jpg" group-title="Movies",The Long Walk (2025) (720p)
+https://panguott.panguplay.workers.dev/dub/109027
+#EXTINF:-1 tvg-id="the-long-walk-2025_1080p" tvg-name="The Long Walk (2025) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wobVTa99eW0ht6c1rNNzLkazPtR.jpg" group-title="Movies",The Long Walk (2025) (1080p)
+https://panguott.panguplay.workers.dev/dub/109023
+
+#EXTINF:-1 tvg-id="the-strangers-chapter-2-2025_720p" tvg-name="The Strangers - Chapter 2 (2025) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aEk9jLbiKTVssdATbrF879NvyyJ.jpg" group-title="Movies",The Strangers - Chapter 2 (2025) (720p)
+https://panguott.panguplay.workers.dev/dub/109019
+#EXTINF:-1 tvg-id="the-strangers-chapter-2-2025_1080p" tvg-name="The Strangers - Chapter 2 (2025) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aEk9jLbiKTVssdATbrF879NvyyJ.jpg" group-title="Movies",The Strangers - Chapter 2 (2025) (1080p)
+https://panguott.panguplay.workers.dev/dub/109015
+
+#EXTINF:-1 tvg-id="firebreak-2026_720p" tvg-name="Firebreak (2026) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/knh3c8LzL9fMhjc5SZPAOotXyiy.jpg" group-title="Movies",Firebreak (2026) (720p)
+https://panguott.panguplay.workers.dev/dub/109011
+#EXTINF:-1 tvg-id="firebreak-2026_1080p" tvg-name="Firebreak (2026) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/knh3c8LzL9fMhjc5SZPAOotXyiy.jpg" group-title="Movies",Firebreak (2026) (1080p)
+https://panguott.panguplay.workers.dev/dub/109007
+
+#EXTINF:-1 tvg-id="pavane-2026_720p" tvg-name="Pavane (2026) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wOXc8stx1CLvM6GC0ABKfWOkbYw.jpg" group-title="Movies",Pavane (2026) (720p)
+https://panguott.panguplay.workers.dev/dub/108985
+#EXTINF:-1 tvg-id="pavane-2026_1080p" tvg-name="Pavane (2026) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wOXc8stx1CLvM6GC0ABKfWOkbYw.jpg" group-title="Movies",Pavane (2026) (1080p)
+https://panguott.panguplay.workers.dev/dub/108981
+
+#EXTINF:-1 tvg-id="blade-of-fury-2024_720p" tvg-name="Blade of Fury (2024) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/utyfULeHcVAwyc3uAYMDpxeTLdN.jpg" group-title="Movies",Blade of Fury (2024) (720p)
+https://panguott.panguplay.workers.dev/dub/108977
+#EXTINF:-1 tvg-id="blade-of-fury-2024_1080p" tvg-name="Blade of Fury (2024) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/utyfULeHcVAwyc3uAYMDpxeTLdN.jpg" group-title="Movies",Blade of Fury (2024) (1080p)
+https://panguott.panguplay.workers.dev/dub/108973
+
 #EXTINF:-1 tvg-id="bone-lake-2024_720p" tvg-name="Bone Lake (2024) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sGo5ti82LlydAZrvcsaj31iPuEI.jpg" group-title="Movies",Bone Lake (2024) (720p)
 https://panguott.panguplay.workers.dev/dub/108865
 #EXTINF:-1 tvg-id="bone-lake-2024_1080p" tvg-name="Bone Lake (2024) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sGo5ti82LlydAZrvcsaj31iPuEI.jpg" group-title="Movies",Bone Lake (2024) (1080p)
