@@ -1,5 +1,25 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="wanted-2025_720p" tvg-name="Wanted (2025) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8kyqyI6mQmIVdLPRvIaFskVIcQW.jpg" group-title="Movies",Wanted (2025) (720p)
+https://panguott.panguplay.workers.dev/dub/109092
+#EXTINF:-1 tvg-id="wanted-2025_1080p" tvg-name="Wanted (2025) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8kyqyI6mQmIVdLPRvIaFskVIcQW.jpg" group-title="Movies",Wanted (2025) (1080p)
+https://panguott.panguplay.workers.dev/dub/109088
+
+#EXTINF:-1 tvg-id="quarantine-2008_720p" tvg-name="Quarantine (2008) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rGfOD8IC1x4PqmnqRuA8KyCckia.jpg" group-title="Movies",Quarantine (2008) (720p)
+https://panguott.panguplay.workers.dev/dub/109100
+#EXTINF:-1 tvg-id="quarantine-2008_1080p" tvg-name="Quarantine (2008) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rGfOD8IC1x4PqmnqRuA8KyCckia.jpg" group-title="Movies",Quarantine (2008) (1080p)
+https://panguott.panguplay.workers.dev/dub/109096
+
+#EXTINF:-1 tvg-id="lara-croft-tomb-raider-2001_720p" tvg-name="Lara Croft Tomb Raider (2001) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ye5h6fhfz8TkKV4QeuTucvFzxB9.jpg" group-title="Movies",Lara Croft Tomb Raider (2001) (720p)
+https://panguott.panguplay.workers.dev/dub/109116
+#EXTINF:-1 tvg-id="lara-croft-tomb-raider-2001_1080p" tvg-name="Lara Croft Tomb Raider (2001) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ye5h6fhfz8TkKV4QeuTucvFzxB9.jpg" group-title="Movies",Lara Croft Tomb Raider (2001) (1080p)
+https://panguott.panguplay.workers.dev/dub/109112
+
+#EXTINF:-1 tvg-id="ufo-2018_720p" tvg-name="UFO (2018) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jdy1GTdaAXqhsCVOpIXokifYdCh.jpg" group-title="Movies",UFO (2018) (720p)
+https://panguott.panguplay.workers.dev/dub/109124
+#EXTINF:-1 tvg-id="ufo-2018_1080p" tvg-name="UFO (2018) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jdy1GTdaAXqhsCVOpIXokifYdCh.jpg" group-title="Movies",UFO (2018) (1080p)
+https://panguott.panguplay.workers.dev/dub/109120
+
 #EXTINF:-1 tvg-id="the-bluff-2026_720p" tvg-name="The Bluff (2026) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sojEzvfxR2DBcDSJyAisX8TWjov.jpg" group-title="Movies",The Bluff (2026) (720p)
 https://panguott.panguplay.workers.dev/dub/109081
 #EXTINF:-1 tvg-id="the-bluff-2026_1080p" tvg-name="The Bluff (2026) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sojEzvfxR2DBcDSJyAisX8TWjov.jpg" group-title="Movies",The Bluff (2026) (1080p)
