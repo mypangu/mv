@@ -1,5 +1,85 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="anali-2026_720p" tvg-name="Anali (2026) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/swU1gHR88apVPthor7RVv8AOa1j.jpg" group-title="Movies",Anali (2026) (720p)
+https://panguott.panguplay.workers.dev/play/99561
+#EXTINF:-1 tvg-id="anali-2026_1080p" tvg-name="Anali (2026) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/swU1gHR88apVPthor7RVv8AOa1j.jpg" group-title="Movies",Anali (2026) (1080p)
+https://panguott.panguplay.workers.dev/play/99558
+
+#EXTINF:-1 tvg-id="ananthan-kaadu-2026_720p" tvg-name="Ananthan Kaadu (2026) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a8Ut1fkbqvolWfEIl8Voa1oUsDG.jpg" group-title="Movies",Ananthan Kaadu (2026) (720p)
+https://panguott.panguplay.workers.dev/play/99742
+#EXTINF:-1 tvg-id="ananthan-kaadu-2026_1080p" tvg-name="Ananthan Kaadu (2026) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a8Ut1fkbqvolWfEIl8Voa1oUsDG.jpg" group-title="Movies",Ananthan Kaadu (2026) (1080p)
+https://panguott.panguplay.workers.dev/play/99741
+
+#EXTINF:-1 tvg-id="angikaaram-2026_720p" tvg-name="Angikaaram (2026) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rRyz56Fubfwmre6F5QiYyIzKmnT.jpg" group-title="Movies",Angikaaram (2026) (720p)
+https://panguott.panguplay.workers.dev/play/99763
+#EXTINF:-1 tvg-id="angikaaram-2026_1080p" tvg-name="Angikaaram (2026) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rRyz56Fubfwmre6F5QiYyIzKmnT.jpg" group-title="Movies",Angikaaram (2026) (1080p)
+https://panguott.panguplay.workers.dev/play/99762
+
+#EXTINF:-1 tvg-id="athiradi-2026_720p" tvg-name="Athiradi (2026) (720p)" tvg-logo="" group-title="Movies",Athiradi (2026) (720p)
+https://panguott.panguplay.workers.dev/play/99530
+#EXTINF:-1 tvg-id="athiradi-2026_1080p" tvg-name="Athiradi (2026) (1080p)" tvg-logo="" group-title="Movies",Athiradi (2026) (1080p)
+https://panguott.panguplay.workers.dev/play/99532
+
+#EXTINF:-1 tvg-id="balan-the-boy-2026_720p" tvg-name="Balan The Boy (2026) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/boKxdR9tgXfkazf6yWgiDdleBy0.jpg" group-title="Movies",Balan The Boy (2026) (720p)
+https://panguott.panguplay.workers.dev/play/99642
+#EXTINF:-1 tvg-id="balan-the-boy-2026_1080p" tvg-name="Balan The Boy (2026) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/boKxdR9tgXfkazf6yWgiDdleBy0.jpg" group-title="Movies",Balan The Boy (2026) (1080p)
+https://panguott.panguplay.workers.dev/play/99641
+
+#EXTINF:-1 tvg-id="blast-2026_720p" tvg-name="Blast (2026) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ho824aZtnBzE6FuJRn2znQCq4qQ.jpg" group-title="Movies",Blast (2026) (720p)
+https://panguott.panguplay.workers.dev/play/99659
+#EXTINF:-1 tvg-id="blast-2026_1080p" tvg-name="Blast (2026) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ho824aZtnBzE6FuJRn2znQCq4qQ.jpg" group-title="Movies",Blast (2026) (1080p)
+https://panguott.panguplay.workers.dev/play/99656
+
+#EXTINF:-1 tvg-id="con-city-2026_720p" tvg-name="Con City (2026) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7xLyq9kWQDiyARwYjR4BXwwuv1P.jpg" group-title="Movies",Con City (2026) (720p)
+https://panguott.panguplay.workers.dev/play/99753
+#EXTINF:-1 tvg-id="con-city-2026_1080p" tvg-name="Con City (2026) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7xLyq9kWQDiyARwYjR4BXwwuv1P.jpg" group-title="Movies",Con City (2026) (1080p)
+https://panguott.panguplay.workers.dev/play/99752
+
+#EXTINF:-1 tvg-id="enakku-20-unakku-18-2003_720p" tvg-name="Enakku 20 Unakku 18 (2003) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hmvwlPu5yeHXya6J9WqZiCijYzn.jpg" group-title="Movies",Enakku 20 Unakku 18 (2003) (720p)
+https://panguott.panguplay.workers.dev/play/99571
+#EXTINF:-1 tvg-id="enakku-20-unakku-18-2003_1080p" tvg-name="Enakku 20 Unakku 18 (2003) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hmvwlPu5yeHXya6J9WqZiCijYzn.jpg" group-title="Movies",Enakku 20 Unakku 18 (2003) (1080p)
+https://panguott.panguplay.workers.dev/play/99566
+
+#EXTINF:-1 tvg-id="engal-thangam-2026_720p" tvg-name="Engal Thangam (2026) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n7X5JZLzqzUxwdn9Mwx9cegEnBv.jpg" group-title="Movies",Engal Thangam (2026) (720p)
+https://panguott.panguplay.workers.dev/play/99623
+#EXTINF:-1 tvg-id="engal-thangam-2026_1080p" tvg-name="Engal Thangam (2026) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n7X5JZLzqzUxwdn9Mwx9cegEnBv.jpg" group-title="Movies",Engal Thangam (2026) (1080p)
+https://panguott.panguplay.workers.dev/play/99622
+
+#EXTINF:-1 tvg-id="heartin-2026_720p" tvg-name="Heartin (2026) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7xvMocNLZov64aOU1X3BRWawjD7.jpg" group-title="Movies",Heartin (2026) (720p)
+https://panguott.panguplay.workers.dev/play/99800
+#EXTINF:-1 tvg-id="heartin-2026_1080p" tvg-name="Heartin (2026) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7xvMocNLZov64aOU1X3BRWawjD7.jpg" group-title="Movies",Heartin (2026) (1080p)
+https://panguott.panguplay.workers.dev/play/99799
+
+#EXTINF:-1 tvg-id="m4m-motive-for-murder-2026_720p" tvg-name="M4M - Motive for Murder (2026) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/FcoRfDLRwiAcNCd5SmeDIIeea7.jpg" group-title="Movies",M4M - Motive for Murder (2026) (720p)
+https://panguott.panguplay.workers.dev/play/99551
+#EXTINF:-1 tvg-id="m4m-motive-for-murder-2026_1080p" tvg-name="M4M - Motive for Murder (2026) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/FcoRfDLRwiAcNCd5SmeDIIeea7.jpg" group-title="Movies",M4M - Motive for Murder (2026) (1080p)
+https://panguott.panguplay.workers.dev/play/99553
+
+#EXTINF:-1 tvg-id="mareechika-2026_720p" tvg-name="Mareechika (2026) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/huPugRFCfwTrJSN09B5Z4BKssye.jpg" group-title="Movies",Mareechika (2026) (720p)
+https://panguott.panguplay.workers.dev/play/99541
+#EXTINF:-1 tvg-id="mareechika-2026_1080p" tvg-name="Mareechika (2026) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/huPugRFCfwTrJSN09B5Z4BKssye.jpg" group-title="Movies",Mareechika (2026) (1080p)
+https://panguott.panguplay.workers.dev/play/99539
+
+#EXTINF:-1 tvg-id="moondram-kan-2026_720p" tvg-name="Moondram Kan (2026) (720p)" tvg-logo="" group-title="Movies",Moondram Kan (2026) (720p)
+https://panguott.panguplay.workers.dev/play/99680
+#EXTINF:-1 tvg-id="moondram-kan-2026_1080p" tvg-name="Moondram Kan (2026) (1080p)" tvg-logo="" group-title="Movies",Moondram Kan (2026) (1080p)
+https://panguott.panguplay.workers.dev/play/99719
+
+#EXTINF:-1 tvg-id="nooru-sami-2026_720p" tvg-name="Nooru Sami (2026) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r9mX5R4jsrospJlWrOE8WqzktnH.jpg" group-title="Movies",Nooru Sami (2026) (720p)
+https://panguott.panguplay.workers.dev/play/99633
+#EXTINF:-1 tvg-id="nooru-sami-2026_1080p" tvg-name="Nooru Sami (2026) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r9mX5R4jsrospJlWrOE8WqzktnH.jpg" group-title="Movies",Nooru Sami (2026) (1080p)
+https://panguott.panguplay.workers.dev/play/99632
+
+#EXTINF:-1 tvg-id="run-2002_720p" tvg-name="Run (2002) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8XgmIsbpVamdhwcNVsYzohFZTtT.jpg" group-title="Movies",Run (2002) (720p)
+https://panguott.panguplay.workers.dev/play/99653
+#EXTINF:-1 tvg-id="run-2002_1080p" tvg-name="Run (2002) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8XgmIsbpVamdhwcNVsYzohFZTtT.jpg" group-title="Movies",Run (2002) (1080p)
+https://panguott.panguplay.workers.dev/play/99648
+
+#EXTINF:-1 tvg-id="thanthirakkaaran-2026_720p" tvg-name="Thanthirakkaaran (2026) (720p)" tvg-logo="" group-title="Movies",Thanthirakkaaran (2026) (720p)
+https://panguott.panguplay.workers.dev/play/99808
+#EXTINF:-1 tvg-id="thanthirakkaaran-2026_1080p" tvg-name="Thanthirakkaaran (2026) (1080p)" tvg-logo="" group-title="Movies",Thanthirakkaaran (2026) (1080p)
+https://panguott.panguplay.workers.dev/play/99804
+
 #EXTINF:-1 tvg-id="29-2026_720p" tvg-name="29 (2026) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aQZ4OxzaYTN7cRN7fALi9BhPucp.jpg" group-title="Movies",29 (2026) (720p)
 https://panguott.panguplay.workers.dev/play/99238
 #EXTINF:-1 tvg-id="29-2026_1080p" tvg-name="29 (2026) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aQZ4OxzaYTN7cRN7fALi9BhPucp.jpg" group-title="Movies",29 (2026) (1080p)
