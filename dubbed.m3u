@@ -1,5 +1,540 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="180-2026_720p" tvg-name="180 (2026) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ISjrhA38HpSSGtfiCk8lpziC3K.jpg" group-title="Movies",180 (2026) (720p)
+https://panguott.panguplay.workers.dev/dub/109970
+#EXTINF:-1 tvg-id="180-2026_1080p" tvg-name="180 (2026) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ISjrhA38HpSSGtfiCk8lpziC3K.jpg" group-title="Movies",180 (2026) (1080p)
+https://panguott.panguplay.workers.dev/dub/109966
+
+#EXTINF:-1 tvg-id="28-years-later-the-bone-temple-2026_720p" tvg-name="28 Years Later The Bone Temple (2026) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kK1BGkG3KAvWB0WMV1DfOx9yTMZ.jpg" group-title="Movies",28 Years Later The Bone Temple (2026) (720p)
+https://panguott.panguplay.workers.dev/dub/110128
+#EXTINF:-1 tvg-id="28-years-later-the-bone-temple-2026_1080p" tvg-name="28 Years Later The Bone Temple (2026) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kK1BGkG3KAvWB0WMV1DfOx9yTMZ.jpg" group-title="Movies",28 Years Later The Bone Temple (2026) (1080p)
+https://panguott.panguplay.workers.dev/dub/110138
+
+#EXTINF:-1 tvg-id="agent-zero-badh-2026_720p" tvg-name="Agent Zero Badh (2026) (720p)" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/diDNHFfccBZxw0CmQoVQkSuJIri.jpg" group-title="Movies",Agent Zero Badh (2026) (720p)
+https://panguott.panguplay.workers.dev/dub/110485
+#EXTINF:-1 tvg-id="agent-zero-badh-2026_1080p" tvg-name="Agent Zero Badh (2026) (1080p)" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/diDNHFfccBZxw0CmQoVQkSuJIri.jpg" group-title="Movies",Agent Zero Badh (2026) (1080p)
+https://panguott.panguplay.workers.dev/dub/110481
+
+#EXTINF:-1 tvg-id="alien-rubicon-2024_720p" tvg-name="Alien Rubicon (2024) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zFH6wa8uVU7dKkval9QzMX8nSAb.jpg" group-title="Movies",Alien Rubicon (2024) (720p)
+https://panguott.panguplay.workers.dev/dub/111113
+#EXTINF:-1 tvg-id="alien-rubicon-2024_1080p" tvg-name="Alien Rubicon (2024) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zFH6wa8uVU7dKkval9QzMX8nSAb.jpg" group-title="Movies",Alien Rubicon (2024) (1080p)
+https://panguott.panguplay.workers.dev/dub/111109
+
+#EXTINF:-1 tvg-id="america-is-sinking-2023_720p" tvg-name="America is Sinking (2023) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aJPnqK2kSM257FESP69HPTSWt3p.jpg" group-title="Movies",America is Sinking (2023) (720p)
+https://panguott.panguplay.workers.dev/dub/111121
+#EXTINF:-1 tvg-id="america-is-sinking-2023_1080p" tvg-name="America is Sinking (2023) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aJPnqK2kSM257FESP69HPTSWt3p.jpg" group-title="Movies",America is Sinking (2023) (1080p)
+https://panguott.panguplay.workers.dev/dub/111117
+
+#EXTINF:-1 tvg-id="anecdotes-of-ape-mountain-2026_720p" tvg-name="Anecdotes of Ape Mountain (2026) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhk4xNejRdGKr9b7XXAOX77MLkq.jpg" group-title="Movies",Anecdotes of Ape Mountain (2026) (720p)
+https://panguott.panguplay.workers.dev/dub/110153
+#EXTINF:-1 tvg-id="anecdotes-of-ape-mountain-2026_1080p" tvg-name="Anecdotes of Ape Mountain (2026) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhk4xNejRdGKr9b7XXAOX77MLkq.jpg" group-title="Movies",Anecdotes of Ape Mountain (2026) (1080p)
+https://panguott.panguplay.workers.dev/dub/110149
+
+#EXTINF:-1 tvg-id="apex-2026_720p" tvg-name="Apex (2026) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eTp7gSPkSF3Aw79mNx1NkBP1PZT.jpg" group-title="Movies",Apex (2026) (720p)
+https://panguott.panguplay.workers.dev/dub/110090
+#EXTINF:-1 tvg-id="apex-2026_1080p" tvg-name="Apex (2026) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eTp7gSPkSF3Aw79mNx1NkBP1PZT.jpg" group-title="Movies",Apex (2026) (1080p)
+https://panguott.panguplay.workers.dev/dub/110086
+
+#EXTINF:-1 tvg-id="arco-2025_720p" tvg-name="Arco (2025) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mWlvHFxTDhq9O5WSOHywa32QIez.jpg" group-title="Movies",Arco (2025) (720p)
+https://panguott.panguplay.workers.dev/dub/111129
+#EXTINF:-1 tvg-id="arco-2025_1080p" tvg-name="Arco (2025) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mWlvHFxTDhq9O5WSOHywa32QIez.jpg" group-title="Movies",Arco (2025) (1080p)
+https://panguott.panguplay.workers.dev/dub/111125
+
+#EXTINF:-1 tvg-id="balls-up-2026_720p" tvg-name="Balls Up (2026) (720p)" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/xwvJ3WzdJ1OCuDoY8LAxBUlQyig.jpg" group-title="Movies",Balls Up (2026) (720p)
+https://panguott.panguplay.workers.dev/dub/109936
+#EXTINF:-1 tvg-id="balls-up-2026_1080p" tvg-name="Balls Up (2026) (1080p)" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/xwvJ3WzdJ1OCuDoY8LAxBUlQyig.jpg" group-title="Movies",Balls Up (2026) (1080p)
+https://panguott.panguplay.workers.dev/dub/109932
+
+#EXTINF:-1 tvg-id="beast-of-war-2025_720p" tvg-name="Beast of War (2025) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2xgDjVEOtu5LlbPEngxfbCqWEFg.jpg" group-title="Movies",Beast of War (2025) (720p)
+https://panguott.panguplay.workers.dev/dub/110835
+#EXTINF:-1 tvg-id="beast-of-war-2025_1080p" tvg-name="Beast of War (2025) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2xgDjVEOtu5LlbPEngxfbCqWEFg.jpg" group-title="Movies",Beast of War (2025) (1080p)
+https://panguott.panguplay.workers.dev/dub/110831
+
+#EXTINF:-1 tvg-id="beckman-2020_720p" tvg-name="Beckman (2020) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z0r3YjyJSLqf6Hz0rbBAnEhNXQ7.jpg" group-title="Movies",Beckman (2020) (720p)
+https://panguott.panguplay.workers.dev/dub/110419
+#EXTINF:-1 tvg-id="beckman-2020_1080p" tvg-name="Beckman (2020) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z0r3YjyJSLqf6Hz0rbBAnEhNXQ7.jpg" group-title="Movies",Beckman (2020) (1080p)
+https://panguott.panguplay.workers.dev/dub/110415
+
+#EXTINF:-1 tvg-id="clika-2026_720p" tvg-name="Clika (2026) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/82Vh8PSzWtBi0CLWrnJdRhGYxEr.jpg" group-title="Movies",Clika (2026) (720p)
+https://panguott.panguplay.workers.dev/dub/110240
+#EXTINF:-1 tvg-id="clika-2026_1080p" tvg-name="Clika (2026) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/82Vh8PSzWtBi0CLWrnJdRhGYxEr.jpg" group-title="Movies",Clika (2026) (1080p)
+https://panguott.panguplay.workers.dev/dub/110236
+
+#EXTINF:-1 tvg-id="constantine-2005_720p" tvg-name="Constantine (2005) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vPYgvd2MwHlxTamAOjwVQp4qs1W.jpg" group-title="Movies",Constantine (2005) (720p)
+https://panguott.panguplay.workers.dev/dub/110586
+#EXTINF:-1 tvg-id="constantine-2005_1080p" tvg-name="Constantine (2005) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vPYgvd2MwHlxTamAOjwVQp4qs1W.jpg" group-title="Movies",Constantine (2005) (1080p)
+https://panguott.panguplay.workers.dev/dub/110582
+
+#EXTINF:-1 tvg-id="coyotes-2025_720p" tvg-name="Coyotes (2025) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fSzs9ZXYcrln0FRrjGIPCjuB6En.jpg" group-title="Movies",Coyotes (2025) (720p)
+https://panguott.panguplay.workers.dev/dub/110328
+#EXTINF:-1 tvg-id="coyotes-2025_1080p" tvg-name="Coyotes (2025) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fSzs9ZXYcrln0FRrjGIPCjuB6En.jpg" group-title="Movies",Coyotes (2025) (1080p)
+https://panguott.panguplay.workers.dev/dub/110324
+
+#EXTINF:-1 tvg-id="crazy-old-lady-2025_720p" tvg-name="Crazy Old Lady (2025) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pT28lZl2eYCNYFyxyThpSKttLfI.jpg" group-title="Movies",Crazy Old Lady (2025) (720p)
+https://panguott.panguplay.workers.dev/dub/110957
+#EXTINF:-1 tvg-id="crazy-old-lady-2025_1080p" tvg-name="Crazy Old Lady (2025) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pT28lZl2eYCNYFyxyThpSKttLfI.jpg" group-title="Movies",Crazy Old Lady (2025) (1080p)
+https://panguott.panguplay.workers.dev/dub/110953
+
+#EXTINF:-1 tvg-id="death-proof-2007_720p" tvg-name="Death Proof (2007) (720p)" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/vtu6H4NWnQVqEp3aanUq3hNeeot.jpg" group-title="Movies",Death Proof (2007) (720p)
+https://panguott.panguplay.workers.dev/dub/109915
+#EXTINF:-1 tvg-id="death-proof-2007_1080p" tvg-name="Death Proof (2007) (1080p)" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/vtu6H4NWnQVqEp3aanUq3hNeeot.jpg" group-title="Movies",Death Proof (2007) (1080p)
+https://panguott.panguplay.workers.dev/dub/109911
+
+#EXTINF:-1 tvg-id="demon-hunters-2025_720p" tvg-name="Demon Hunters (2025) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zT7Lhw3BhJbMkRqm9Zlx2YGMsY0.jpg" group-title="Movies",Demon Hunters (2025) (720p)
+https://panguott.panguplay.workers.dev/dub/110597
+#EXTINF:-1 tvg-id="demon-hunters-2025_1080p" tvg-name="Demon Hunters (2025) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zT7Lhw3BhJbMkRqm9Zlx2YGMsY0.jpg" group-title="Movies",Demon Hunters (2025) (1080p)
+https://panguott.panguplay.workers.dev/dub/110595
+
+#EXTINF:-1 tvg-id="door-in-the-woods-2019_720p" tvg-name="Door in the Woods (2019) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Cp1Ojuzujp4UEwezJTTB2yCBvw.jpg" group-title="Movies",Door in the Woods (2019) (720p)
+https://panguott.panguplay.workers.dev/dub/109995
+#EXTINF:-1 tvg-id="door-in-the-woods-2019_1080p" tvg-name="Door in the Woods (2019) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Cp1Ojuzujp4UEwezJTTB2yCBvw.jpg" group-title="Movies",Door in the Woods (2019) (1080p)
+https://panguott.panguplay.workers.dev/dub/109991
+
+#EXTINF:-1 tvg-id="doraemon-the-movie-nobitas-little-star-wars-2021-2022_720p" tvg-name="Doraemon The Movie Nobitas Little Star Wars 2021 (2022) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u5sFU0Uw3qtFOeWNvnhLAt9JzbA.jpg" group-title="Movies",Doraemon The Movie Nobitas Little Star Wars 2021 (2022) (720p)
+https://panguott.panguplay.workers.dev/dub/110843
+#EXTINF:-1 tvg-id="doraemon-the-movie-nobitas-little-star-wars-2021-2022_1080p" tvg-name="Doraemon The Movie Nobitas Little Star Wars 2021 (2022) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u5sFU0Uw3qtFOeWNvnhLAt9JzbA.jpg" group-title="Movies",Doraemon The Movie Nobitas Little Star Wars 2021 (2022) (1080p)
+https://panguott.panguplay.workers.dev/dub/110839
+
+#EXTINF:-1 tvg-id="end-of-the-world-2013_720p" tvg-name="End of the World (2013) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jZsk45d9zARmvyW4pXvIhx7izRA.jpg" group-title="Movies",End of the World (2013) (720p)
+https://panguott.panguplay.workers.dev/dub/109768
+#EXTINF:-1 tvg-id="end-of-the-world-2013_1080p" tvg-name="End of the World (2013) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jZsk45d9zARmvyW4pXvIhx7izRA.jpg" group-title="Movies",End of the World (2013) (1080p)
+https://panguott.panguplay.workers.dev/dub/109764
+
+#EXTINF:-1 tvg-id="enola-holmes-2020_720p" tvg-name="Enola Holmes (2020) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/riYInlsq2kf1AWoGm80JQW5dLKp.jpg" group-title="Movies",Enola Holmes (2020) (720p)
+https://panguott.panguplay.workers.dev/dub/110352
+#EXTINF:-1 tvg-id="enola-holmes-2020_1080p" tvg-name="Enola Holmes (2020) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/riYInlsq2kf1AWoGm80JQW5dLKp.jpg" group-title="Movies",Enola Holmes (2020) (1080p)
+https://panguott.panguplay.workers.dev/dub/110348
+
+#EXTINF:-1 tvg-id="enola-holmes-2-2022_720p" tvg-name="Enola Holmes 2 (2022) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tegBpjM5ODoYoM1NjaiHVLEA0QM.jpg" group-title="Movies",Enola Holmes 2 (2022) (720p)
+https://panguott.panguplay.workers.dev/dub/110391
+#EXTINF:-1 tvg-id="enola-holmes-2-2022_1080p" tvg-name="Enola Holmes 2 (2022) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tegBpjM5ODoYoM1NjaiHVLEA0QM.jpg" group-title="Movies",Enola Holmes 2 (2022) (1080p)
+https://panguott.panguplay.workers.dev/dub/110387
+
+#EXTINF:-1 tvg-id="faith-under-fire-2020_720p" tvg-name="Faith Under Fire (2020) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hwIvZcFEgKCFhL3Gzc8hHRQ1ynj.jpg" group-title="Movies",Faith Under Fire (2020) (720p)
+https://panguott.panguplay.workers.dev/dub/110529
+#EXTINF:-1 tvg-id="faith-under-fire-2020_1080p" tvg-name="Faith Under Fire (2020) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hwIvZcFEgKCFhL3Gzc8hHRQ1ynj.jpg" group-title="Movies",Faith Under Fire (2020) (1080p)
+https://panguott.panguplay.workers.dev/dub/110525
+
+#EXTINF:-1 tvg-id="ghost-war-2026_720p" tvg-name="Ghost War (2026) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ehYxUh5MWE41AeE9gkHE8DKzvB.jpg" group-title="Movies",Ghost War (2026) (720p)
+https://panguott.panguplay.workers.dev/dub/110605
+#EXTINF:-1 tvg-id="ghost-war-2026_1080p" tvg-name="Ghost War (2026) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ehYxUh5MWE41AeE9gkHE8DKzvB.jpg" group-title="Movies",Ghost War (2026) (1080p)
+https://panguott.panguplay.workers.dev/dub/110601
+
+#EXTINF:-1 tvg-id="goat-2026_720p" tvg-name="Goat (2026) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg" group-title="Movies",Goat (2026) (720p)
+https://panguott.panguplay.workers.dev/dub/110398
+#EXTINF:-1 tvg-id="goat-2026_1080p" tvg-name="Goat (2026) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg" group-title="Movies",Goat (2026) (1080p)
+https://panguott.panguplay.workers.dev/dub/110399
+
+#EXTINF:-1 tvg-id="good-neighbor-sam-1964_720p" tvg-name="Good Neighbor Sam (1964) (720p)" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/dLyFlaMOZ998xitLiOEMur2FyrD.jpg" group-title="Movies",Good Neighbor Sam (1964) (720p)
+https://panguott.panguplay.workers.dev/dub/110232
+#EXTINF:-1 tvg-id="good-neighbor-sam-1964_1080p" tvg-name="Good Neighbor Sam (1964) (1080p)" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/dLyFlaMOZ998xitLiOEMur2FyrD.jpg" group-title="Movies",Good Neighbor Sam (1964) (1080p)
+https://panguott.panguplay.workers.dev/dub/110228
+
+#EXTINF:-1 tvg-id="greenland-2-migration-2026_720p" tvg-name="Greenland 2 Migration (2026) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z2tqCJLsw6uEJ8nJV8BsQXGa3dr.jpg" group-title="Movies",Greenland 2 Migration (2026) (720p)
+https://panguott.panguplay.workers.dev/dub/110050
+#EXTINF:-1 tvg-id="greenland-2-migration-2026_1080p" tvg-name="Greenland 2 Migration (2026) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z2tqCJLsw6uEJ8nJV8BsQXGa3dr.jpg" group-title="Movies",Greenland 2 Migration (2026) (1080p)
+https://panguott.panguplay.workers.dev/dub/110046
+
+#EXTINF:-1 tvg-id="gridiron-gang-2006_720p" tvg-name="Gridiron Gang (2006) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tTjDApg546wt8OWazvPbEhygu83.jpg" group-title="Movies",Gridiron Gang (2006) (720p)
+https://panguott.panguplay.workers.dev/dub/110716
+#EXTINF:-1 tvg-id="gridiron-gang-2006_1080p" tvg-name="Gridiron Gang (2006) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tTjDApg546wt8OWazvPbEhygu83.jpg" group-title="Movies",Gridiron Gang (2006) (1080p)
+https://panguott.panguplay.workers.dev/dub/110712
+
+#EXTINF:-1 tvg-id="gun-2010_720p" tvg-name="Gun (2010) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9dUF1YjDPL5OOlR6GbeYcvu6Q0.jpg" group-title="Movies",Gun (2010) (720p)
+https://panguott.panguplay.workers.dev/dub/110284
+#EXTINF:-1 tvg-id="gun-2010_1080p" tvg-name="Gun (2010) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9dUF1YjDPL5OOlR6GbeYcvu6Q0.jpg" group-title="Movies",Gun (2010) (1080p)
+https://panguott.panguplay.workers.dev/dub/110280
+
+#EXTINF:-1 tvg-id="hatchet-2006_720p" tvg-name="Hatchet (2006) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lkh3Fwruds78feXfP1Zb9kBLydL.jpg" group-title="Movies",Hatchet (2006) (720p)
+https://panguott.panguplay.workers.dev/dub/110949
+#EXTINF:-1 tvg-id="hatchet-2006_1080p" tvg-name="Hatchet (2006) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lkh3Fwruds78feXfP1Zb9kBLydL.jpg" group-title="Movies",Hatchet (2006) (1080p)
+https://panguott.panguplay.workers.dev/dub/110945
+
+#EXTINF:-1 tvg-id="hell-in-paradise-2025_720p" tvg-name="Hell in Paradise (2025) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nCL9LCKau7c0PBbkRMh7fKHjRRI.jpg" group-title="Movies",Hell in Paradise (2025) (720p)
+https://panguott.panguplay.workers.dev/dub/111105
+#EXTINF:-1 tvg-id="hell-in-paradise-2025_1080p" tvg-name="Hell in Paradise (2025) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nCL9LCKau7c0PBbkRMh7fKHjRRI.jpg" group-title="Movies",Hell in Paradise (2025) (1080p)
+https://panguott.panguplay.workers.dev/dub/111101
+
+#EXTINF:-1 tvg-id="i-will-do-anything-1994_720p" tvg-name="I will Do Anything (1994) (720p)" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/oroT4oMzldeKglEAnMT94o3KN66.jpg" group-title="Movies",I will Do Anything (1994) (720p)
+https://panguott.panguplay.workers.dev/dub/110692
+#EXTINF:-1 tvg-id="i-will-do-anything-1994_1080p" tvg-name="I will Do Anything (1994) (1080p)" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/oroT4oMzldeKglEAnMT94o3KN66.jpg" group-title="Movies",I will Do Anything (1994) (1080p)
+https://panguott.panguplay.workers.dev/dub/110688
+
+#EXTINF:-1 tvg-id="indivisible-2018_720p" tvg-name="Indivisible (2018) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nHoV8LbrDPGBZp0QSl9S0Jiw4tg.jpg" group-title="Movies",Indivisible (2018) (720p)
+https://panguott.panguplay.workers.dev/dub/110557
+#EXTINF:-1 tvg-id="indivisible-2018_1080p" tvg-name="Indivisible (2018) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nHoV8LbrDPGBZp0QSl9S0Jiw4tg.jpg" group-title="Movies",Indivisible (2018) (1080p)
+https://panguott.panguplay.workers.dev/dub/110553
+
+#EXTINF:-1 tvg-id="it-2016_720p" tvg-name="IT (2016) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iwnQ1JH1wdWrGYkgWySptJ5284A.jpg" group-title="Movies",IT (2016) (720p)
+https://panguott.panguplay.workers.dev/dub/110376
+#EXTINF:-1 tvg-id="it-2016_1080p" tvg-name="IT (2016) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iwnQ1JH1wdWrGYkgWySptJ5284A.jpg" group-title="Movies",IT (2016) (1080p)
+https://panguott.panguplay.workers.dev/dub/110372
+
+#EXTINF:-1 tvg-id="keeper-2025_720p" tvg-name="Keeper (2025) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mbGHijUc0C3fcM12l6ro6FgxIvg.jpg" group-title="Movies",Keeper (2025) (720p)
+https://panguott.panguplay.workers.dev/dub/109776
+#EXTINF:-1 tvg-id="keeper-2025_1080p" tvg-name="Keeper (2025) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mbGHijUc0C3fcM12l6ro6FgxIvg.jpg" group-title="Movies",Keeper (2025) (1080p)
+https://panguott.panguplay.workers.dev/dub/109772
+
+#EXTINF:-1 tvg-id="ladies-first-2026_720p" tvg-name="Ladies First (2026) (720p)" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/kjR56Yv17pbjTVBTMjqepvcus4f.jpg" group-title="Movies",Ladies First (2026) (720p)
+https://panguott.panguplay.workers.dev/dub/110668
+#EXTINF:-1 tvg-id="ladies-first-2026_1080p" tvg-name="Ladies First (2026) (1080p)" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/kjR56Yv17pbjTVBTMjqepvcus4f.jpg" group-title="Movies",Ladies First (2026) (1080p)
+https://panguott.panguplay.workers.dev/dub/110664
+
+#EXTINF:-1 tvg-id="lee-2023_720p" tvg-name="Lee (2023) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zdNWyuim8gpJHe1LtKaDrs43dWz.jpg" group-title="Movies",Lee (2023) (720p)
+https://panguott.panguplay.workers.dev/dub/110030
+#EXTINF:-1 tvg-id="lee-2023_1080p" tvg-name="Lee (2023) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zdNWyuim8gpJHe1LtKaDrs43dWz.jpg" group-title="Movies",Lee (2023) (1080p)
+https://panguott.panguplay.workers.dev/dub/110026
+
+#EXTINF:-1 tvg-id="lee-cronins-the-mummy-2026_720p" tvg-name="Lee Cronins The Mummy (2026) (720p)" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/1q308iixueCU4pFtSYugNOevtNx.jpg" group-title="Movies",Lee Cronins The Mummy (2026) (720p)
+https://panguott.panguplay.workers.dev/dub/110787
+#EXTINF:-1 tvg-id="lee-cronins-the-mummy-2026_1080p" tvg-name="Lee Cronins The Mummy (2026) (1080p)" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/1q308iixueCU4pFtSYugNOevtNx.jpg" group-title="Movies",Lee Cronins The Mummy (2026) (1080p)
+https://panguott.panguplay.workers.dev/dub/110783
+
+#EXTINF:-1 tvg-id="lost-in-yonkers-1993_720p" tvg-name="Lost in Yonkers (1993) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9COy4RAhPzOw1ICecKMYQCexTgm.jpg" group-title="Movies",Lost in Yonkers (1993) (720p)
+https://panguott.panguplay.workers.dev/dub/110917
+#EXTINF:-1 tvg-id="lost-in-yonkers-1993_1080p" tvg-name="Lost in Yonkers (1993) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9COy4RAhPzOw1ICecKMYQCexTgm.jpg" group-title="Movies",Lost in Yonkers (1993) (1080p)
+https://panguott.panguplay.workers.dev/dub/110913
+
+#EXTINF:-1 tvg-id="marty-supreme-2025_720p" tvg-name="Marty Supreme (2025) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg" group-title="Movies",Marty Supreme (2025) (720p)
+https://panguott.panguplay.workers.dev/dub/110501
+#EXTINF:-1 tvg-id="marty-supreme-2025_1080p" tvg-name="Marty Supreme (2025) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg" group-title="Movies",Marty Supreme (2025) (1080p)
+https://panguott.panguplay.workers.dev/dub/110497
+
+#EXTINF:-1 tvg-id="maternal-instinct-2026_720p" tvg-name="Maternal Instinct (2026) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4KdmT71AGzDMp5hJbAu9vysKQKT.jpg" group-title="Movies",Maternal Instinct (2026) (720p)
+https://panguott.panguplay.workers.dev/dub/111033
+#EXTINF:-1 tvg-id="maternal-instinct-2026_1080p" tvg-name="Maternal Instinct (2026) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4KdmT71AGzDMp5hJbAu9vysKQKT.jpg" group-title="Movies",Maternal Instinct (2026) (1080p)
+https://panguott.panguplay.workers.dev/dub/111029
+
+#EXTINF:-1 tvg-id="mermaid-2026_720p" tvg-name="Mermaid (2026) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ndGA7b7b81a32HQCAVRZ5RWyfJ1.jpg" group-title="Movies",Mermaid (2026) (720p)
+https://panguott.panguplay.workers.dev/dub/110700
+#EXTINF:-1 tvg-id="mermaid-2026_1080p" tvg-name="Mermaid (2026) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ndGA7b7b81a32HQCAVRZ5RWyfJ1.jpg" group-title="Movies",Mermaid (2026) (1080p)
+https://panguott.panguplay.workers.dev/dub/110696
+
+#EXTINF:-1 tvg-id="moneyball-2011_720p" tvg-name="Moneyball (2011) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4yIQq1e6iOcaZ5rLDG3lZBP3j7a.jpg" group-title="Movies",Moneyball (2011) (720p)
+https://panguott.panguplay.workers.dev/dub/110772
+#EXTINF:-1 tvg-id="moneyball-2011_1080p" tvg-name="Moneyball (2011) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4yIQq1e6iOcaZ5rLDG3lZBP3j7a.jpg" group-title="Movies",Moneyball (2011) (1080p)
+https://panguott.panguplay.workers.dev/dub/110768
+
+#EXTINF:-1 tvg-id="mortal-kombat-2021_720p" tvg-name="Mortal Kombat (2021) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ybrX94xQm8lXYpZAPRmwD9iIbWP.jpg" group-title="Movies",Mortal Kombat (2021) (720p)
+https://panguott.panguplay.workers.dev/dub/110312
+#EXTINF:-1 tvg-id="mortal-kombat-2021_1080p" tvg-name="Mortal Kombat (2021) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ybrX94xQm8lXYpZAPRmwD9iIbWP.jpg" group-title="Movies",Mortal Kombat (2021) (1080p)
+https://panguott.panguplay.workers.dev/dub/110308
+
+#EXTINF:-1 tvg-id="mortal-kombat-2-2026_720p" tvg-name="Mortal Kombat 2 (2026) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hwRdDFIhaEmpRgoki805YvyyjZf.jpg" group-title="Movies",Mortal Kombat 2 (2026) (720p)
+https://panguott.panguplay.workers.dev/dub/110571
+#EXTINF:-1 tvg-id="mortal-kombat-2-2026_1080p" tvg-name="Mortal Kombat 2 (2026) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hwRdDFIhaEmpRgoki805YvyyjZf.jpg" group-title="Movies",Mortal Kombat 2 (2026) (1080p)
+https://panguott.panguplay.workers.dev/dub/110567
+
+#EXTINF:-1 tvg-id="my-dearest-senorita-2026_720p" tvg-name="My Dearest Senorita (2026) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cTcJs2bEsJDhQEpeYSOZD3yayZI.jpg" group-title="Movies",My Dearest Senorita (2026) (720p)
+https://panguott.panguplay.workers.dev/dub/110224
+#EXTINF:-1 tvg-id="my-dearest-senorita-2026_1080p" tvg-name="My Dearest Senorita (2026) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cTcJs2bEsJDhQEpeYSOZD3yayZI.jpg" group-title="Movies",My Dearest Senorita (2026) (1080p)
+https://panguott.panguplay.workers.dev/dub/110220
+
+#EXTINF:-1 tvg-id="nadine-1987_720p" tvg-name="Nadine (1987) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mim8TLLXmD3ui03f9jVmOXGACv8.jpg" group-title="Movies",Nadine (1987) (720p)
+https://panguott.panguplay.workers.dev/dub/110368
+#EXTINF:-1 tvg-id="nadine-1987_1080p" tvg-name="Nadine (1987) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mim8TLLXmD3ui03f9jVmOXGACv8.jpg" group-title="Movies",Nadine (1987) (1080p)
+https://panguott.panguplay.workers.dev/dub/110364
+
+#EXTINF:-1 tvg-id="no-tears-in-hell-2025_720p" tvg-name="No Tears in Hell (2025) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a0bODl3Ieix1qcGRLIx6PZvluzB.jpg" group-title="Movies",No Tears in Hell (2025) (720p)
+https://panguott.panguplay.workers.dev/dub/109946
+#EXTINF:-1 tvg-id="no-tears-in-hell-2025_1080p" tvg-name="No Tears in Hell (2025) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a0bODl3Ieix1qcGRLIx6PZvluzB.jpg" group-title="Movies",No Tears in Hell (2025) (1080p)
+https://panguott.panguplay.workers.dev/dub/109942
+
+#EXTINF:-1 tvg-id="office-romance-2026_720p" tvg-name="Office Romance (2026) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1HRUTqEVDmJC4L6tp6zd85MI6uH.jpg" group-title="Movies",Office Romance (2026) (720p)
+https://panguott.panguplay.workers.dev/dub/110877
+#EXTINF:-1 tvg-id="office-romance-2026_1080p" tvg-name="Office Romance (2026) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1HRUTqEVDmJC4L6tp6zd85MI6uH.jpg" group-title="Movies",Office Romance (2026) (1080p)
+https://panguott.panguplay.workers.dev/dub/110873
+
+#EXTINF:-1 tvg-id="panda-plan-2-the-magical-tribe-2026_720p" tvg-name="Panda Plan 2 The Magical Tribe (2026) (720p)" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/rsklfT52hvm04Ni7acJb5t96SPq.jpg" group-title="Movies",Panda Plan 2 The Magical Tribe (2026) (720p)
+https://panguott.panguplay.workers.dev/dub/110633
+#EXTINF:-1 tvg-id="panda-plan-2-the-magical-tribe-2026_1080p" tvg-name="Panda Plan 2 The Magical Tribe (2026) (1080p)" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/rsklfT52hvm04Ni7acJb5t96SPq.jpg" group-title="Movies",Panda Plan 2 The Magical Tribe (2026) (1080p)
+https://panguott.panguplay.workers.dev/dub/110629
+
+#EXTINF:-1 tvg-id="peter-rabbit-2018_720p" tvg-name="Peter Rabbit (2018) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lugOvdaNpbVGQK9TyMRDiUbLtY6.jpg" group-title="Movies",Peter Rabbit (2018) (720p)
+https://panguott.panguplay.workers.dev/dub/110579
+#EXTINF:-1 tvg-id="peter-rabbit-2018_1080p" tvg-name="Peter Rabbit (2018) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lugOvdaNpbVGQK9TyMRDiUbLtY6.jpg" group-title="Movies",Peter Rabbit (2018) (1080p)
+https://panguott.panguplay.workers.dev/dub/110575
+
+#EXTINF:-1 tvg-id="project-hail-mary-2026_720p" tvg-name="Project Hail Mary (2026) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yihdXomYb5kTeSivtFndMy5iDmf.jpg" group-title="Movies",Project Hail Mary (2026) (720p)
+https://panguott.panguplay.workers.dev/dub/110383
+#EXTINF:-1 tvg-id="project-hail-mary-2026_1080p" tvg-name="Project Hail Mary (2026) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yihdXomYb5kTeSivtFndMy5iDmf.jpg" group-title="Movies",Project Hail Mary (2026) (1080p)
+https://panguott.panguplay.workers.dev/dub/110379
+
+#EXTINF:-1 tvg-id="project-y-2026_720p" tvg-name="Project Y (2026) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1KMG1inDAnKaGZ1W8Ac3wn6bdXu.jpg" group-title="Movies",Project Y (2026) (720p)
+https://panguott.panguplay.workers.dev/dub/110208
+#EXTINF:-1 tvg-id="project-y-2026_1080p" tvg-name="Project Y (2026) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1KMG1inDAnKaGZ1W8Ac3wn6bdXu.jpg" group-title="Movies",Project Y (2026) (1080p)
+https://panguott.panguplay.workers.dev/dub/110204
+
+#EXTINF:-1 tvg-id="radio-flyer-1992_720p" tvg-name="Radio Flyer (1992) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nQjCKrwWYH6ES0HrnkLkPXnOEp0.jpg" group-title="Movies",Radio Flyer (1992) (720p)
+https://panguott.panguplay.workers.dev/dub/110676
+#EXTINF:-1 tvg-id="radio-flyer-1992_1080p" tvg-name="Radio Flyer (1992) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nQjCKrwWYH6ES0HrnkLkPXnOEp0.jpg" group-title="Movies",Radio Flyer (1992) (1080p)
+https://panguott.panguplay.workers.dev/dub/110672
+
+#EXTINF:-1 tvg-id="rain-fall-2009_720p" tvg-name="Rain Fall (2009) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jpcy33dy2fkUeUI45OZuDql1KVx.jpg" group-title="Movies",Rain Fall (2009) (720p)
+https://panguott.panguplay.workers.dev/dub/110684
+#EXTINF:-1 tvg-id="rain-fall-2009_1080p" tvg-name="Rain Fall (2009) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jpcy33dy2fkUeUI45OZuDql1KVx.jpg" group-title="Movies",Rain Fall (2009) (1080p)
+https://panguott.panguplay.workers.dev/dub/110680
+
+#EXTINF:-1 tvg-id="rampage-2018_720p" tvg-name="Rampage (2018) (720p)" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/MGADip4thVSErP34FAAfzFBTZ5.jpg" group-title="Movies",Rampage (2018) (720p)
+https://panguott.panguplay.workers.dev/dub/109791
+#EXTINF:-1 tvg-id="rampage-2018_1080p" tvg-name="Rampage (2018) (1080p)" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/MGADip4thVSErP34FAAfzFBTZ5.jpg" group-title="Movies",Rampage (2018) (1080p)
+https://panguott.panguplay.workers.dev/dub/109787
+
+#EXTINF:-1 tvg-id="reign-of-terror-1949_720p" tvg-name="Reign of Terror (1949) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vHJaF9RoTT1XU1uUj9c6nLVulQj.jpg" group-title="Movies",Reign of Terror (1949) (720p)
+https://panguott.panguplay.workers.dev/dub/111017
+#EXTINF:-1 tvg-id="reign-of-terror-1949_1080p" tvg-name="Reign of Terror (1949) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vHJaF9RoTT1XU1uUj9c6nLVulQj.jpg" group-title="Movies",Reign of Terror (1949) (1080p)
+https://panguott.panguplay.workers.dev/dub/111013
+
+#EXTINF:-1 tvg-id="rescue-dawn-2006_720p" tvg-name="Rescue Dawn (2006) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ymPlV2ymUBSctfRzpehFOxFmJiS.jpg" group-title="Movies",Rescue Dawn (2006) (720p)
+https://panguott.panguplay.workers.dev/dub/110819
+#EXTINF:-1 tvg-id="rescue-dawn-2006_1080p" tvg-name="Rescue Dawn (2006) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ymPlV2ymUBSctfRzpehFOxFmJiS.jpg" group-title="Movies",Rescue Dawn (2006) (1080p)
+https://panguott.panguplay.workers.dev/dub/110815
+
+#EXTINF:-1 tvg-id="rl-stines-pumpkinhead-2025_720p" tvg-name="RL Stines Pumpkinhead (2025) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gRJFFA9lK9pLikEIMcetgkmOGTj.jpg" group-title="Movies",RL Stines Pumpkinhead (2025) (720p)
+https://panguott.panguplay.workers.dev/dub/111025
+#EXTINF:-1 tvg-id="rl-stines-pumpkinhead-2025_1080p" tvg-name="RL Stines Pumpkinhead (2025) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gRJFFA9lK9pLikEIMcetgkmOGTj.jpg" group-title="Movies",RL Stines Pumpkinhead (2025) (1080p)
+https://panguott.panguplay.workers.dev/dub/111021
+
+#EXTINF:-1 tvg-id="roommates-2026_720p" tvg-name="Roommates (2026) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6EuUD71ig2DXtAgoTawXL0L6mhR.jpg" group-title="Movies",Roommates (2026) (720p)
+https://panguott.panguplay.workers.dev/dub/109978
+#EXTINF:-1 tvg-id="roommates-2026_1080p" tvg-name="Roommates (2026) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6EuUD71ig2DXtAgoTawXL0L6mhR.jpg" group-title="Movies",Roommates (2026) (1080p)
+https://panguott.panguplay.workers.dev/dub/109974
+
+#EXTINF:-1 tvg-id="saint-maud-2019_720p" tvg-name="Saint Maud (2019) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ArNYeeDFLVye7JpqLElYdbE6fOa.jpg" group-title="Movies",Saint Maud (2019) (720p)
+https://panguott.panguplay.workers.dev/dub/110640
+#EXTINF:-1 tvg-id="saint-maud-2019_1080p" tvg-name="Saint Maud (2019) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ArNYeeDFLVye7JpqLElYdbE6fOa.jpg" group-title="Movies",Saint Maud (2019) (1080p)
+https://panguott.panguplay.workers.dev/dub/110636
+
+#EXTINF:-1 tvg-id="scarlet-2025_720p" tvg-name="Scarlet (2025) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2O2tOyS4kvO9GtFPHpWmbXvfRQv.jpg" group-title="Movies",Scarlet (2025) (720p)
+https://panguott.panguplay.workers.dev/dub/110057
+#EXTINF:-1 tvg-id="scarlet-2025_1080p" tvg-name="Scarlet (2025) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2O2tOyS4kvO9GtFPHpWmbXvfRQv.jpg" group-title="Movies",Scarlet (2025) (1080p)
+https://panguott.panguplay.workers.dev/dub/110058
+
+#EXTINF:-1 tvg-id="second-in-command-2006_720p" tvg-name="Second in Command (2006) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3MlHO10nWkQkzO7B5BE9OCKjC7Z.jpg" group-title="Movies",Second in Command (2006) (720p)
+https://panguott.panguplay.workers.dev/dub/110457
+#EXTINF:-1 tvg-id="second-in-command-2006_1080p" tvg-name="Second in Command (2006) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3MlHO10nWkQkzO7B5BE9OCKjC7Z.jpg" group-title="Movies",Second in Command (2006) (1080p)
+https://panguott.panguplay.workers.dev/dub/110453
+
+#EXTINF:-1 tvg-id="seven-years-in-tibet-1997_720p" tvg-name="Seven Years in Tibet (1997) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qm87HHUew8ICtUCM4asO3gFYvby.jpg" group-title="Movies",Seven Years in Tibet (1997) (720p)
+https://panguott.panguplay.workers.dev/dub/111097
+#EXTINF:-1 tvg-id="seven-years-in-tibet-1997_1080p" tvg-name="Seven Years in Tibet (1997) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qm87HHUew8ICtUCM4asO3gFYvby.jpg" group-title="Movies",Seven Years in Tibet (1997) (1080p)
+https://panguott.panguplay.workers.dev/dub/111093
+
+#EXTINF:-1 tvg-id="shelter-2026_720p" tvg-name="Shelter (2026) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/buPFnHZ3xQy6vZEHxbHgL1Pc6CR.jpg" group-title="Movies",Shelter (2026) (720p)
+https://panguott.panguplay.workers.dev/dub/111009
+#EXTINF:-1 tvg-id="shelter-2026_1080p" tvg-name="Shelter (2026) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/buPFnHZ3xQy6vZEHxbHgL1Pc6CR.jpg" group-title="Movies",Shelter (2026) (1080p)
+https://panguott.panguplay.workers.dev/dub/111005
+
+#EXTINF:-1 tvg-id="sorcerer-heavenly-master-dark-hades-2025_720p" tvg-name="Sorcerer Heavenly Master Dark Hades (2025) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m8qxW6QOOxV1teMzsHGIQwAcNgM.jpg" group-title="Movies",Sorcerer Heavenly Master Dark Hades (2025) (720p)
+https://panguott.panguplay.workers.dev/dub/109954
+#EXTINF:-1 tvg-id="sorcerer-heavenly-master-dark-hades-2025_1080p" tvg-name="Sorcerer Heavenly Master Dark Hades (2025) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m8qxW6QOOxV1teMzsHGIQwAcNgM.jpg" group-title="Movies",Sorcerer Heavenly Master Dark Hades (2025) (1080p)
+https://panguott.panguplay.workers.dev/dub/109950
+
+#EXTINF:-1 tvg-id="strange-harvest-2024_720p" tvg-name="Strange Harvest (2024) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYe0FNJNy0EIb8q4JUMLbbSmCth.jpg" group-title="Movies",Strange Harvest (2024) (720p)
+https://panguott.panguplay.workers.dev/dub/110162
+#EXTINF:-1 tvg-id="strange-harvest-2024_1080p" tvg-name="Strange Harvest (2024) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYe0FNJNy0EIb8q4JUMLbbSmCth.jpg" group-title="Movies",Strange Harvest (2024) (1080p)
+https://panguott.panguplay.workers.dev/dub/110158
+
+#EXTINF:-1 tvg-id="succubus-2024_720p" tvg-name="Succubus (2024) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7AfBMebJS8mEtSV5ymdxEPpgvXb.jpg" group-title="Movies",Succubus (2024) (720p)
+https://panguott.panguplay.workers.dev/dub/110778
+#EXTINF:-1 tvg-id="succubus-2024_1080p" tvg-name="Succubus (2024) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7AfBMebJS8mEtSV5ymdxEPpgvXb.jpg" group-title="Movies",Succubus (2024) (1080p)
+https://panguott.panguplay.workers.dev/dub/110780
+
+#EXTINF:-1 tvg-id="summer-house-2026_720p" tvg-name="Summer House (2026) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/81xUChgVphBFehihIgbXbyneZXP.jpg" group-title="Movies",Summer House (2026) (720p)
+https://panguott.panguplay.workers.dev/dub/110909
+#EXTINF:-1 tvg-id="summer-house-2026_1080p" tvg-name="Summer House (2026) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/81xUChgVphBFehihIgbXbyneZXP.jpg" group-title="Movies",Summer House (2026) (1080p)
+https://panguott.panguplay.workers.dev/dub/110905
+
+#EXTINF:-1 tvg-id="swapped-2026_720p" tvg-name="Swapped (2026) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg" group-title="Movies",Swapped (2026) (720p)
+https://panguott.panguplay.workers.dev/dub/110216
+#EXTINF:-1 tvg-id="swapped-2026_1080p" tvg-name="Swapped (2026) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg" group-title="Movies",Swapped (2026) (1080p)
+https://panguott.panguplay.workers.dev/dub/110212
+
+#EXTINF:-1 tvg-id="the-anacondas-2025_720p" tvg-name="The Anacondas (2025) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yphysF14qWFvrIbFVg3vEnbudwT.jpg" group-title="Movies",The Anacondas (2025) (720p)
+https://panguott.panguplay.workers.dev/dub/109962
+#EXTINF:-1 tvg-id="the-anacondas-2025_1080p" tvg-name="The Anacondas (2025) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yphysF14qWFvrIbFVg3vEnbudwT.jpg" group-title="Movies",The Anacondas (2025) (1080p)
+https://panguott.panguplay.workers.dev/dub/109958
+
+#EXTINF:-1 tvg-id="the-big-picture-1989_720p" tvg-name="The Big Picture (1989) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/olQw61BotSq74LgpwQTn4qPYAk1.jpg" group-title="Movies",The Big Picture (1989) (720p)
+https://panguott.panguplay.workers.dev/dub/109900
+#EXTINF:-1 tvg-id="the-big-picture-1989_1080p" tvg-name="The Big Picture (1989) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/olQw61BotSq74LgpwQTn4qPYAk1.jpg" group-title="Movies",The Big Picture (1989) (1080p)
+https://panguott.panguplay.workers.dev/dub/109896
+
+#EXTINF:-1 tvg-id="the-call-2025_720p" tvg-name="The Call (2025) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/swFLhsK2LrGEWxVD3k4ZYrK9Kj6.jpg" group-title="Movies",The Call (2025) (720p)
+https://panguott.panguplay.workers.dev/dub/109892
+#EXTINF:-1 tvg-id="the-call-2025_1080p" tvg-name="The Call (2025) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/swFLhsK2LrGEWxVD3k4ZYrK9Kj6.jpg" group-title="Movies",The Call (2025) (1080p)
+https://panguott.panguplay.workers.dev/dub/109888
+
+#EXTINF:-1 tvg-id="the-camp-on-blood-island-1958_720p" tvg-name="The Camp on Blood Island (1958) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aQ0Bj6uI3Ei2TyRjgb3sEQUU2II.jpg" group-title="Movies",The Camp on Blood Island (1958) (720p)
+https://panguott.panguplay.workers.dev/dub/110933
+#EXTINF:-1 tvg-id="the-camp-on-blood-island-1958_1080p" tvg-name="The Camp on Blood Island (1958) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aQ0Bj6uI3Ei2TyRjgb3sEQUU2II.jpg" group-title="Movies",The Camp on Blood Island (1958) (1080p)
+https://panguott.panguplay.workers.dev/dub/110929
+
+#EXTINF:-1 tvg-id="the-crash-2026_720p" tvg-name="The Crash (2026) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/veskdPx4YUTmkrFrTs6zRJ8VV4E.jpg" group-title="Movies",The Crash (2026) (720p)
+https://panguott.panguplay.workers.dev/dub/110493
+#EXTINF:-1 tvg-id="the-crash-2026_1080p" tvg-name="The Crash (2026) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/veskdPx4YUTmkrFrTs6zRJ8VV4E.jpg" group-title="Movies",The Crash (2026) (1080p)
+https://panguott.panguplay.workers.dev/dub/110489
+
+#EXTINF:-1 tvg-id="the-deep-1977_720p" tvg-name="The Deep (1977) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z3HXf0nIN7tvpTF8fxiJrvD603f.jpg" group-title="Movies",The Deep (1977) (720p)
+https://panguott.panguplay.workers.dev/dub/111089
+#EXTINF:-1 tvg-id="the-deep-1977_1080p" tvg-name="The Deep (1977) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z3HXf0nIN7tvpTF8fxiJrvD603f.jpg" group-title="Movies",The Deep (1977) (1080p)
+https://panguott.panguplay.workers.dev/dub/111085
+
+#EXTINF:-1 tvg-id="the-dresser-1983_720p" tvg-name="The Dresser (1983) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kPIeNAwdN2Ds77Bf7bfZAmDrzoh.jpg" group-title="Movies",The Dresser (1983) (720p)
+https://panguott.panguplay.workers.dev/dub/110122
+#EXTINF:-1 tvg-id="the-dresser-1983_1080p" tvg-name="The Dresser (1983) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kPIeNAwdN2Ds77Bf7bfZAmDrzoh.jpg" group-title="Movies",The Dresser (1983) (1080p)
+https://panguott.panguplay.workers.dev/dub/110118
+
+#EXTINF:-1 tvg-id="the-exorcism-of-emily-rose-2005_720p" tvg-name="The Exorcism Of Emily Rose (2005) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qMN0HIP34f736kkQcfvTfmL9TP3.jpg" group-title="Movies",The Exorcism Of Emily Rose (2005) (720p)
+https://panguott.panguplay.workers.dev/dub/110795
+#EXTINF:-1 tvg-id="the-exorcism-of-emily-rose-2005_1080p" tvg-name="The Exorcism Of Emily Rose (2005) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qMN0HIP34f736kkQcfvTfmL9TP3.jpg" group-title="Movies",The Exorcism Of Emily Rose (2005) (1080p)
+https://panguott.panguplay.workers.dev/dub/110791
+
+#EXTINF:-1 tvg-id="the-house-elf-2019_720p" tvg-name="The House Elf (2019) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/amn6ZxnazHGZAONxVVfra08L40M.jpg" group-title="Movies",The House Elf (2019) (720p)
+https://panguott.panguplay.workers.dev/dub/110827
+#EXTINF:-1 tvg-id="the-house-elf-2019_1080p" tvg-name="The House Elf (2019) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/amn6ZxnazHGZAONxVVfra08L40M.jpg" group-title="Movies",The House Elf (2019) (1080p)
+https://panguott.panguplay.workers.dev/dub/110823
+
+#EXTINF:-1 tvg-id="the-imitation-game-2014_720p" tvg-name="The Imitation Game (2014) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zSqJ1qFq8NXFfi7JeIYMlzyR0dx.jpg" group-title="Movies",The Imitation Game (2014) (720p)
+https://panguott.panguplay.workers.dev/dub/110145
+#EXTINF:-1 tvg-id="the-imitation-game-2014_1080p" tvg-name="The Imitation Game (2014) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zSqJ1qFq8NXFfi7JeIYMlzyR0dx.jpg" group-title="Movies",The Imitation Game (2014) (1080p)
+https://panguott.panguplay.workers.dev/dub/110141
+
+#EXTINF:-1 tvg-id="the-larva-island-movie-2020_720p" tvg-name="The Larva Island Movie (2020) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uHdxICUIRGoJjK67aOp3ykvL8ZW.jpg" group-title="Movies",The Larva Island Movie (2020) (720p)
+https://panguott.panguplay.workers.dev/dub/110136
+#EXTINF:-1 tvg-id="the-larva-island-movie-2020_1080p" tvg-name="The Larva Island Movie (2020) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uHdxICUIRGoJjK67aOp3ykvL8ZW.jpg" group-title="Movies",The Larva Island Movie (2020) (1080p)
+https://panguott.panguplay.workers.dev/dub/110132
+
+#EXTINF:-1 tvg-id="the-marked-woman-2026_720p" tvg-name="The Marked Woman (2026) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dyUZ6IKbzmgtdshHevJahpH51Eq.jpg" group-title="Movies",The Marked Woman (2026) (720p)
+https://panguott.panguplay.workers.dev/dub/110869
+#EXTINF:-1 tvg-id="the-marked-woman-2026_1080p" tvg-name="The Marked Woman (2026) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dyUZ6IKbzmgtdshHevJahpH51Eq.jpg" group-title="Movies",The Marked Woman (2026) (1080p)
+https://panguott.panguplay.workers.dev/dub/110865
+
+#EXTINF:-1 tvg-id="the-murder-of-rachel-nickell-2026_720p" tvg-name="The Murder of Rachel Nickell (2026) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ibTNWrpUGsSuv7PbVRIgr97jDVs.jpg" group-title="Movies",The Murder of Rachel Nickell (2026) (720p)
+https://panguott.panguplay.workers.dev/dub/110861
+#EXTINF:-1 tvg-id="the-murder-of-rachel-nickell-2026_1080p" tvg-name="The Murder of Rachel Nickell (2026) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ibTNWrpUGsSuv7PbVRIgr97jDVs.jpg" group-title="Movies",The Murder of Rachel Nickell (2026) (1080p)
+https://panguott.panguplay.workers.dev/dub/110857
+
+#EXTINF:-1 tvg-id="the-plague-2006_720p" tvg-name="The Plague (2006) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oC1IDjpUXbWwmJnWGb9FBldinoG.jpg" group-title="Movies",The Plague (2006) (720p)
+https://panguott.panguplay.workers.dev/dub/109828
+#EXTINF:-1 tvg-id="the-plague-2006_1080p" tvg-name="The Plague (2006) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oC1IDjpUXbWwmJnWGb9FBldinoG.jpg" group-title="Movies",The Plague (2006) (1080p)
+https://panguott.panguplay.workers.dev/dub/109824
+
+#EXTINF:-1 tvg-id="the-professional-1994_720p" tvg-name="The Professional (1994) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bxB2q91nKYp8JNzqE7t7TWBVupB.jpg" group-title="Movies",The Professional (1994) (720p)
+https://panguott.panguplay.workers.dev/dub/110744
+#EXTINF:-1 tvg-id="the-professional-1994_1080p" tvg-name="The Professional (1994) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bxB2q91nKYp8JNzqE7t7TWBVupB.jpg" group-title="Movies",The Professional (1994) (1080p)
+https://panguott.panguplay.workers.dev/dub/110740
+
+#EXTINF:-1 tvg-id="the-race-2025_720p" tvg-name="The Race (2025) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oTLcRCSuunNV8ML81VlU4spIpMi.jpg" group-title="Movies",The Race (2025) (720p)
+https://panguott.panguplay.workers.dev/dub/110811
+#EXTINF:-1 tvg-id="the-race-2025_1080p" tvg-name="The Race (2025) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oTLcRCSuunNV8ML81VlU4spIpMi.jpg" group-title="Movies",The Race (2025) (1080p)
+https://panguott.panguplay.workers.dev/dub/110807
+
+#EXTINF:-1 tvg-id="the-razors-edge-1984_720p" tvg-name="The Razors Edge (1984) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tBiw9KXH9agSgi4WhgVkFuEhYjO.jpg" group-title="Movies",The Razors Edge (1984) (720p)
+https://panguott.panguplay.workers.dev/dub/110803
+#EXTINF:-1 tvg-id="the-razors-edge-1984_1080p" tvg-name="The Razors Edge (1984) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tBiw9KXH9agSgi4WhgVkFuEhYjO.jpg" group-title="Movies",The Razors Edge (1984) (1080p)
+https://panguott.panguplay.workers.dev/dub/110799
+
+#EXTINF:-1 tvg-id="the-shift-2023_720p" tvg-name="The Shift (2023) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/voLxg0emuu862JAgFwM4yTH3eGj.jpg" group-title="Movies",The Shift (2023) (720p)
+https://panguott.panguplay.workers.dev/dub/110248
+#EXTINF:-1 tvg-id="the-shift-2023_1080p" tvg-name="The Shift (2023) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/voLxg0emuu862JAgFwM4yTH3eGj.jpg" group-title="Movies",The Shift (2023) (1080p)
+https://panguott.panguplay.workers.dev/dub/110244
+
+#EXTINF:-1 tvg-id="the-snorkel-1958_720p" tvg-name="The Snorkel (1958) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cimYDFGjTTfPUNaJT1S0VUnL3Ao.jpg" group-title="Movies",The Snorkel (1958) (720p)
+https://panguott.panguplay.workers.dev/dub/110925
+#EXTINF:-1 tvg-id="the-snorkel-1958_1080p" tvg-name="The Snorkel (1958) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cimYDFGjTTfPUNaJT1S0VUnL3Ao.jpg" group-title="Movies",The Snorkel (1958) (1080p)
+https://panguott.panguplay.workers.dev/dub/110921
+
+#EXTINF:-1 tvg-id="the-social-network-2010_720p" tvg-name="The Social Network (2010) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n0ybibhJtQ5icDqTp8eRytcIHJx.jpg" group-title="Movies",The Social Network (2010) (720p)
+https://panguott.panguplay.workers.dev/dub/110407
+#EXTINF:-1 tvg-id="the-social-network-2010_1080p" tvg-name="The Social Network (2010) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n0ybibhJtQ5icDqTp8eRytcIHJx.jpg" group-title="Movies",The Social Network (2010) (1080p)
+https://panguott.panguplay.workers.dev/dub/110403
+
+#EXTINF:-1 tvg-id="the-terror-of-the-tongs-1961_720p" tvg-name="The Terror of the Tongs (1961) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2KdowgrSZCaUjkxVcUw3CPRg4rI.jpg" group-title="Movies",The Terror of the Tongs (1961) (720p)
+https://panguott.panguplay.workers.dev/dub/110941
+#EXTINF:-1 tvg-id="the-terror-of-the-tongs-1961_1080p" tvg-name="The Terror of the Tongs (1961) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2KdowgrSZCaUjkxVcUw3CPRg4rI.jpg" group-title="Movies",The Terror of the Tongs (1961) (1080p)
+https://panguott.panguplay.workers.dev/dub/110937
+
+#EXTINF:-1 tvg-id="the-ugly-2025_720p" tvg-name="The Ugly (2025) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rayAREIKtSinuov10GvrZHyXfXH.jpg" group-title="Movies",The Ugly (2025) (720p)
+https://panguott.panguplay.workers.dev/dub/109784
+#EXTINF:-1 tvg-id="the-ugly-2025_1080p" tvg-name="The Ugly (2025) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rayAREIKtSinuov10GvrZHyXfXH.jpg" group-title="Movies",The Ugly (2025) (1080p)
+https://panguott.panguplay.workers.dev/dub/109780
+
+#EXTINF:-1 tvg-id="the-walk-2015_720p" tvg-name="The Walk (2015) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tiESRqurrZwAC0hpERogOsBhjeg.jpg" group-title="Movies",The Walk (2015) (720p)
+https://panguott.panguplay.workers.dev/dub/110625
+#EXTINF:-1 tvg-id="the-walk-2015_1080p" tvg-name="The Walk (2015) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tiESRqurrZwAC0hpERogOsBhjeg.jpg" group-title="Movies",The Walk (2015) (1080p)
+https://panguott.panguplay.workers.dev/dub/110621
+
+#EXTINF:-1 tvg-id="the-whisper-2025_720p" tvg-name="The Whisper (2025) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mm5uTCD55btSNijo7ApFhdeFCGS.jpg" group-title="Movies",The Whisper (2025) (720p)
+https://panguott.panguplay.workers.dev/dub/110276
+#EXTINF:-1 tvg-id="the-whisper-2025_1080p" tvg-name="The Whisper (2025) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mm5uTCD55btSNijo7ApFhdeFCGS.jpg" group-title="Movies",The Whisper (2025) (1080p)
+https://panguott.panguplay.workers.dev/dub/110272
+
+#EXTINF:-1 tvg-id="thrash-2026_720p" tvg-name="Thrash (2026) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/adk8weka3O5648g3de4z3y4aE7G.jpg" group-title="Movies",Thrash (2026) (720p)
+https://panguott.panguplay.workers.dev/dub/109884
+#EXTINF:-1 tvg-id="thrash-2026_1080p" tvg-name="Thrash (2026) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/adk8weka3O5648g3de4z3y4aE7G.jpg" group-title="Movies",Thrash (2026) (1080p)
+https://panguott.panguplay.workers.dev/dub/109880
+
+#EXTINF:-1 tvg-id="trinity-goodheart-2011_720p" tvg-name="Trinity Goodheart (2011) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xx5hF9ix9jvTlQQtmIjNIBLNo69.jpg" group-title="Movies",Trinity Goodheart (2011) (720p)
+https://panguott.panguplay.workers.dev/dub/109799
+#EXTINF:-1 tvg-id="trinity-goodheart-2011_1080p" tvg-name="Trinity Goodheart (2011) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xx5hF9ix9jvTlQQtmIjNIBLNo69.jpg" group-title="Movies",Trinity Goodheart (2011) (1080p)
+https://panguott.panguplay.workers.dev/dub/109795
+
+#EXTINF:-1 tvg-id="untold-chess-mates-2026_720p" tvg-name="Untold Chess Mates (2026) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oC68KgbyFiraKJRdUedQI9aXBF.jpg" group-title="Movies",Untold Chess Mates (2026) (720p)
+https://panguott.panguplay.workers.dev/dub/109908
+#EXTINF:-1 tvg-id="untold-chess-mates-2026_1080p" tvg-name="Untold Chess Mates (2026) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oC68KgbyFiraKJRdUedQI9aXBF.jpg" group-title="Movies",Untold Chess Mates (2026) (1080p)
+https://panguott.panguplay.workers.dev/dub/109904
+
+#EXTINF:-1 tvg-id="untold-jail-blazers-2026_720p" tvg-name="Untold Jail Blazers (2026) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vmp45llJTRr6JLaIamt3RlfxgTH.jpg" group-title="Movies",Untold Jail Blazers (2026) (720p)
+https://panguott.panguplay.workers.dev/dub/109927
+#EXTINF:-1 tvg-id="untold-jail-blazers-2026_1080p" tvg-name="Untold Jail Blazers (2026) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vmp45llJTRr6JLaIamt3RlfxgTH.jpg" group-title="Movies",Untold Jail Blazers (2026) (1080p)
+https://panguott.panguplay.workers.dev/dub/109923
+
+#EXTINF:-1 tvg-id="untold-the-shooting-at-hawthorne-hill-2026_720p" tvg-name="Untold The Shooting at Hawthorne Hill (2026) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6K0qTMozHAzzYVsWQrXxmqCC5wY.jpg" group-title="Movies",Untold The Shooting at Hawthorne Hill (2026) (720p)
+https://panguott.panguplay.workers.dev/dub/110003
+#EXTINF:-1 tvg-id="untold-the-shooting-at-hawthorne-hill-2026_1080p" tvg-name="Untold The Shooting at Hawthorne Hill (2026) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6K0qTMozHAzzYVsWQrXxmqCC5wY.jpg" group-title="Movies",Untold The Shooting at Hawthorne Hill (2026) (1080p)
+https://panguott.panguplay.workers.dev/dub/109999
+
+#EXTINF:-1 tvg-id="untold-uk-liverpools-miracle-of-istanbul-2026_720p" tvg-name="Untold UK - Liverpools Miracle of Istanbul (2026) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sXsB1CVtX4LGn3TWrf2V1KILLpJ.jpg" group-title="Movies",Untold UK - Liverpools Miracle of Istanbul (2026) (720p)
+https://panguott.panguplay.workers.dev/dub/110594
+#EXTINF:-1 tvg-id="untold-uk-liverpools-miracle-of-istanbul-2026_1080p" tvg-name="Untold UK - Liverpools Miracle of Istanbul (2026) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sXsB1CVtX4LGn3TWrf2V1KILLpJ.jpg" group-title="Movies",Untold UK - Liverpools Miracle of Istanbul (2026) (1080p)
+https://panguott.panguplay.workers.dev/dub/110590
+
+#EXTINF:-1 tvg-id="untold-uk-jamie-vardy-2026_720p" tvg-name="Untold UK Jamie Vardy (2026) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0pODTh6FOwn87iOeXGb7nKOdNT.jpg" group-title="Movies",Untold UK Jamie Vardy (2026) (720p)
+https://panguott.panguplay.workers.dev/dub/110429
+#EXTINF:-1 tvg-id="untold-uk-jamie-vardy-2026_1080p" tvg-name="Untold UK Jamie Vardy (2026) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0pODTh6FOwn87iOeXGb7nKOdNT.jpg" group-title="Movies",Untold UK Jamie Vardy (2026) (1080p)
+https://panguott.panguplay.workers.dev/dub/110425
+
+#EXTINF:-1 tvg-id="untold-uk-vinnie-jones-2026_720p" tvg-name="Untold UK Vinnie Jones (2026) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AilC78z0a3wg0mBpBpurqjWCTxZ.jpg" group-title="Movies",Untold UK Vinnie Jones (2026) (720p)
+https://panguott.panguplay.workers.dev/dub/110708
+#EXTINF:-1 tvg-id="untold-uk-vinnie-jones-2026_1080p" tvg-name="Untold UK Vinnie Jones (2026) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AilC78z0a3wg0mBpBpurqjWCTxZ.jpg" group-title="Movies",Untold UK Vinnie Jones (2026) (1080p)
+https://panguott.panguplay.workers.dev/dub/110704
+
+#EXTINF:-1 tvg-id="virus-1999_720p" tvg-name="Virus (1999) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Np88iigCfnXvMlMKmCcbPVIbYQ.jpg" group-title="Movies",Virus (1999) (720p)
+https://panguott.panguplay.workers.dev/dub/110320
+#EXTINF:-1 tvg-id="virus-1999_1080p" tvg-name="Virus (1999) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Np88iigCfnXvMlMKmCcbPVIbYQ.jpg" group-title="Movies",Virus (1999) (1080p)
+https://panguott.panguplay.workers.dev/dub/110316
+
+#EXTINF:-1 tvg-id="whistle-2026_720p" tvg-name="Whistle (2026) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vgonf5kGsiijUBjzxKTvechhT28.jpg" group-title="Movies",Whistle (2026) (720p)
+https://panguott.panguplay.workers.dev/dub/110965
+#EXTINF:-1 tvg-id="whistle-2026_1080p" tvg-name="Whistle (2026) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vgonf5kGsiijUBjzxKTvechhT28.jpg" group-title="Movies",Whistle (2026) (1080p)
+https://panguott.panguplay.workers.dev/dub/110961
+
+#EXTINF:-1 tvg-id="wildcat-2025_720p" tvg-name="Wildcat (2025) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h893ImjM6Fsv5DFhKJdlZFZIJno.jpg" group-title="Movies",Wildcat (2025) (720p)
+https://panguott.panguplay.workers.dev/dub/109836
+#EXTINF:-1 tvg-id="wildcat-2025_1080p" tvg-name="Wildcat (2025) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h893ImjM6Fsv5DFhKJdlZFZIJno.jpg" group-title="Movies",Wildcat (2025) (1080p)
+https://panguott.panguplay.workers.dev/dub/109832
+
+#EXTINF:-1 tvg-id="wings-of-courage-1995_720p" tvg-name="Wings of Courage (1995) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zoxqNb6v55C35DDqNn03Grzhzgr.jpg" group-title="Movies",Wings of Courage (1995) (720p)
+https://panguott.panguplay.workers.dev/dub/109987
+#EXTINF:-1 tvg-id="wings-of-courage-1995_1080p" tvg-name="Wings of Courage (1995) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zoxqNb6v55C35DDqNn03Grzhzgr.jpg" group-title="Movies",Wings of Courage (1995) (1080p)
+https://panguott.panguplay.workers.dev/dub/109983
+
+#EXTINF:-1 tvg-id="your-fault-london-2026_720p" tvg-name="Your Fault London (2026) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nLxu237EJAisFCYKK48hN9Plobx.jpg" group-title="Movies",Your Fault London (2026) (720p)
+https://panguott.panguplay.workers.dev/dub/111137
+#EXTINF:-1 tvg-id="your-fault-london-2026_1080p" tvg-name="Your Fault London (2026) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nLxu237EJAisFCYKK48hN9Plobx.jpg" group-title="Movies",Your Fault London (2026) (1080p)
+https://panguott.panguplay.workers.dev/dub/111133
+
 #EXTINF:-1 tvg-id="whos-harry-crumb-1989_720p" tvg-name="Whos Harry Crumb (1989) (720p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iUoyyaMklULVoGJDyHcN4nGgSX.jpg" group-title="Movies",Whos Harry Crumb (1989) (720p)
 https://panguott.panguplay.workers.dev/dub/109760
 #EXTINF:-1 tvg-id="whos-harry-crumb-1989_1080p" tvg-name="Whos Harry Crumb (1989) (1080p)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iUoyyaMklULVoGJDyHcN4nGgSX.jpg" group-title="Movies",Whos Harry Crumb (1989) (1080p)
